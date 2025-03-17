@@ -5,6 +5,7 @@ With the rapid advancement of large-scale models, a key question that has drawn 
 # **Table of Contents**
 - [**Awesome-Embodied-AI (A Quick Guide of Embodied-AI)**](#awesome-embodied-ai-a-quick-guide-of-embodied-ai)
 - [**Table of Contents**](#table-of-contents)
+- [**Symbol representation**](#symbol-representation)
 - [**Survey**](#survey)
 - [**Perception**](#perception)
 - [**Brain Model**](#brain-model)
@@ -14,6 +15,10 @@ With the rapid advancement of large-scale models, a key question that has drawn 
 - [**Dataset**](#dataset)
 - [**Toolkit**](#toolkit)
 
+
+# **Symbol representation**
+- [ ] represents closed source.
+- [x] represents open source.
 
 # **Survey**
 
@@ -163,6 +168,7 @@ Collaboration in a Shared Workspace [[Paper Link]](https://arxiv.org/abs/2406.06
 - - [x] Robomimic: What Matters in Learning from Offline Human Demonstrations for Robot Manipulation [[Paper Link]](https://arxiv.org/abs/2108.03298)  [[Project Link]](https://github.com/ARISE-Initiative/robomimic)  [2021]
 - - [x] Adroit: Manipulators and Manipulation in high dimensional spaces [[Paper Link]](https://digital.lib.washington.edu/researchworks/items/f810e199-f3fe-4918-8603-65790e0fdc16)  [[Project Link]](https://github.com/vikashplus/Adroit)  [2016]
 - - [x] Gymnasium-Robotics [[Paper Link]](https://robotics.farama.org/release_notes/)  [[Project Link]](https://github.com/Farama-Foundation/Gymnasium-Robotics)  [2024]
+- - [x] RoboHive: A Unified Framework for Robot Learning [[Paper Link]](https://arxiv.org/abs/2310.06828)  [[Project Link]](https://sites.google.com/view/robohive)  [2024]
 <!-- - - [x]  [[Paper Link]]()  [[Project Link]]()  [2024]
 - - [x]  [[Paper Link]]()  [[Project Link]]()  [2024]
 - - [x]  [[Paper Link]]()  [[Project Link]]()  [2024]
@@ -207,6 +213,11 @@ for Bimanual Teleoperation [[Paper Link]](https://aloha-2.github.io/assets/aloha
 - - [x] REFLECT: Summarizing Robot Experiences for Failure Explanation and Correction [[Paper Link]](https://arxiv.org/abs/2306.15724)  [[Project Link]](https://github.com/real-stanford/reflect)  [2023]
 - - [x] OakInk2: A Dataset of Bimanual Hands-Object Manipulation in Complex Task Completion [[Paper Link]](https://arxiv.org/abs/2403.19417)  [[Project Link]](https://oakink.net/v2/)  [2024]
 - - [x] A dataset of relighted 3d interacting hands [[Paper Link]](https://arxiv.org/abs/2310.17768)  [[Project Link]](https://mks0601.github.io/ReInterHand/)  [2023]
+- - [x] Human-agent joint learning for efficient robot manipulation skill acquisition [[Paper Link]](https://arxiv.org/abs/2407.00299)  [[Project Link]](https://norweig1an.github.io/HAJL.github.io/)  [2025]
+- - [x] RoboNet: Large-Scale Multi-Robot Learning [[Paper Link]](https://arxiv.org/abs/1910.11215)  [[Project Link]](https://www.robonet.wiki)  [2020]
+- - [x] MT-Opt: Continuous Multi-Task Robotic Reinforcement Learning at Scale [[Paper Link]](https://arxiv.org/abs/2104.08212)  [[Project Link]](https://karolhausman.github.io/mt-opt/)  [2021]
+- - [x] BC-Z: Zero-Shot Task Generalization with Robotic Imitation Learning [[Paper Link]](https://arxiv.org/abs/2202.02005)  [[Project Link]](https://sites.google.com/view/bc-z/home?pli=1)  [2022]
+- - [x] VIMA: General Robot Manipulation with Multimodal Prompts [[Paper Link]](https://arxiv.org/abs/2210.03094)  [[Project Link]](https://vimalabs.github.io)  [2023]
 <!-- - - [x]  [[Paper Link]]()  [[Project Link]]()  [2024]
 - - [x]  [[Paper Link]]()  [[Project Link]]()  [2024]
 - - [x]  [[Paper Link]]()  [[Project Link]]()  [2024]
