@@ -1,10 +1,10 @@
-# **Awesome-Embodied-AI (A Quick Guide of Embodied-AI)**
+# **Introduction to Embodied Intelligence (A Quick Guide of Embodied-AI)**
 # 🤖 **About**
 With the rapid advancement of large-scale models, a key question that has drawn considerable attention among researchers is how to equip a model-based intelligent agent with a physical body capable of interacting with the real world. In response, the concept of embodied intelligence has been introduced, attracting a growing community of researchers. To help researchers quickly grasp the frontiers of embodied intelligence and intelligent robotics—and to better promote and publicize developments in this field—this project summarizes representative works in the domain of embodied intelligence and intelligent robotics. It will be continually updated to remain at the cutting edge. If you find any errors while reading through this project, please do not hesitate to contact us to correct them; we greatly appreciate such feedback. Likewise, if you would like to contribute to the further exploration and promotion of embodied intelligence, you are welcome to reach out to me via email: <yinchenghust@outlook.com>.
 ![cover](Assets/cover.png)
 
 # **Table of Contents**
-- [**Awesome-Embodied-AI (A Quick Guide of Embodied-AI)**](#awesome-embodied-ai-a-quick-guide-of-embodied-ai)
+- [**Introduction to Embodied Intelligence (A Quick Guide of Embodied-AI)**](#introduction-to-embodied-intelligence-a-quick-guide-of-embodied-ai)
 - [🤖 **About**](#-about)
 - [**Table of Contents**](#table-of-contents)
 - [**Symbol representation**](#symbol-representation)
@@ -12,6 +12,7 @@ With the rapid advancement of large-scale models, a key question that has drawn 
 - [👁️ **Perception**](#️-perception)
 - [🧠 **Brain Model**](#-brain-model)
 - [🏆 **VLA Model**](#-vla-model)
+- [👑 **E-AI-RL**](#-e-ai-rl)
 - [🏁 **Interactive**](#-interactive)
 - [💻 **Simulator**](#-simulator)
 - [📊 **Dataset**](#-dataset)
@@ -61,6 +62,8 @@ during Robot Arm Movement with Neural Radiance Fields [[Paper Link]](https://arx
 - - [x] RGBManip: Monocular Image-based Robotic Manipulation
 through Active Object Pose Estimation [[Paper Link]](https://arxiv.org/pdf/2310.03478)  [[Project Link]](https://github.com/hyperplane-lab/RGBManip) [2024]
 - - [x] ManipLLM: Embodied Multimodal Large Language Model for Object-Centric Robotic Manipulation [[Paper Link]](https://arxiv.org/abs/2312.16217)  [[Project Link]](https://github.com/clorislili/ManipLLM) [2023]
+- - [x] Play to the Score: Stage-Guided Dynamic Multi-Sensory Fusion for Robotic Manipulation [[Paper Link]](https://arxiv.org/abs/2408.01366)  [[Project Link]](https://gewu-lab.github.io/MS-Bot/)  [2024]
+- - [ ] A Contact Model based on Denoising Diffusion to Learn Variable Impedance Control for Contact-rich Manipulation  [[Paper Link]](https://arxiv.org/abs/2403.13221)  [2024]
 <!-- - - [x]  [[Paper Link]]()  [[Project Link]]()  [2024]
 - - [x]  [[Paper Link]]()  [[Project Link]]()  [2024]
 - - [x]  [[Paper Link]]()  [[Project Link]]()  [2024] -->
@@ -76,6 +79,14 @@ Learning Continuous Control [[Paper Link]](https://arxiv.org/pdf/2407.15840)  [[
 - - [ ] Plan Diffuser: Grounding LLM Planners with
 Diffusion Models for Robotic Manipulation [[Paper Link]](https://openreview.net/pdf?id=2a3sgm5YeX) [2024]
 - - [ ] Action-Free Reasoning for Policy Generalization [[Paper Link]](https://arxiv.org/pdf/2502.03729) [[Project Link]](https://rad-generalization.github.io) [2025]
+- - [ ] Constraint-aware Visual Programming for  Reactive and Proactive Robotic Failure Detection [[Paper Link]](https://arxiv.org/abs/2412.04455)  [[Project Link]](https://zhoues.github.io/Code-as-Monitor/) [2024]
+- - [ ] DoReMi: Grounding Language Model by Detecting and Recovering  from Plan-Execution Misalignment [[Paper Link]](https://arxiv.org/abs/2307.00329) [[Project Link]](https://sites.google.com/view/doremi-paper)
+- - [x] Chain-of-Thought Predictive Control [[Paper Link]](https://arxiv.org/abs/2304.00776)  [[Project Link]](https://sites.google.com/view/cotpc)  [2024]
+- - [x] CogACT: A Foundational Vision-Language-Action Model for Synergizing Cognition and Action in Robotic Manipulation [[Paper Link]](https://arxiv.org/abs/2411.19650)  [[Project Link]](https://cogact.github.io)  [2024]
+- - [x] ClevrSkills: Compositional Language and Visual Reasoning in Robotics [[Paper Link]](https://arxiv.org/abs/2411.09052)  [[Project Link]](https://github.com/Qualcomm-AI-research/ClevrSkills)  [2024]
+- - [x] Do As I Can, Not As I Say: Grounding Language in Robotic Affordances [[Paper Link]](https://arxiv.org/abs/2204.01691)  [[Project Link]](https://say-can.github.io)  [2022]
+- - [x] RoboMatrix: A Skill-centric Hierarchical Framework for Scalable Robot Task Planning and Execution in Open-World [[Paper Link]](https://arxiv.org/abs/2412.00171)  [[Project Link]](https://github.com/WayneMao/RoboMatrix)  [2024]
+- - [ ] Look Before You Leap: Unveiling the Power of GPT-4V in Robotic Vision-Language Planning [[Paper Link]](https://arxiv.org/abs/2311.17842)  [[Project Link]](https://robot-vila.github.io)  [2023]
 <!-- - - [x]  [[Paper Link]]()  [[Project Link]]()  [2024]
 - - [x]  [[Paper Link]]()  [[Project Link]]()  [2024]
 - - [x]  [[Paper Link]]()  [[Project Link]]()  [2024] -->
@@ -105,11 +116,26 @@ trajectory generation via contact guidance [[Paper Link]](https://arxiv.org/pdf/
 - - [ ] RoboGrasp: A Universal Grasping Policy for Robust Robotic Control [[Paper Link]](https://arxiv.org/abs/2502.03072) [2025]
 - - [ ] Improving Vision-Language-Action Model with Online Reinforcement Learning [[Paper Link]](https://arxiv.org/abs/2501.16664)  [2025]
 - - [ ] RoboHorizon: An LLM-Assisted Multi-View World Model for Long-Horizon Robotic Manipulation [[Paper Link]](https://arxiv.org/abs/2501.06605)  [2025]
+- - [x] Equivariant Diffusion Policy [[Paper Link]](https://arxiv.org/abs/2407.01812)  [[Project Link]](https://equidiff.github.io)  [2024]
+- - [x] FAST: Efficient Action Tokenization for  Vision-Language-Action Models [[Paper Link]](https://arxiv.org/abs/2501.09747)  [[Project Link]](https://www.pi.website/research/fast)  [2025]
+- - [ ] Gemini Robotics: Bringing AI into the Physical
+World [[Paper Link]](https://storage.googleapis.com/deepmind-media/gemini-robotics/gemini_robotics_report.pdf)  [2025]
+- - [x] Robotic Control via Embodied Chain-of-Thought Reasoning [[Paper Link]](https://arxiv.org/abs/2407.08693)  [[Project Link]](https://embodied-cot.github.io)  [2025]
+- - [ ] RT-H: Action Hierarchies Using Language [[Paper Link]](https://arxiv.org/abs/2403.01823)  [[Project Link]](https://rt-hierarchy.github.io)  [2024]
+- - [ ] AgiBot World Colosseo: A Large-scale Manipulation Platform for Scalable and Intelligent Embodied Systems [[Paper Link]](https://arxiv.org/abs/2503.06669)  [[Project Link]](https://agibot-world.com)  [2025]
 <!-- - - [x]  [[Paper Link]]()  [[Project Link]]()  [2024]
 - - [x]  [[Paper Link]]()  [[Project Link]]()  [2024]
 - - [x]  [[Paper Link]]()  [[Project Link]]()  [2024] -->
 
+# 👑 **E-AI-RL**
+- - [x] Aligning Diffusion Behaviors with Q-functions for Efficient Continuous Control [[Paper Link]](https://arxiv.org/abs/2407.09024)  [[Project Link]](https://github.com/thu-ml/Efficient-Diffusion-Alignment)  [2024]
+- - [ ] MENTOR: Mixture-of-Experts Network with Task-Oriented Perturbation for Visual Reinforcement Learning [[Paper Link]](https://arxiv.org/abs/2410.14972)  [[Project Link]](https://suninghuang19.github.io/mentor_page/)  [2024]
 
+<!-- - - [x]  [[Paper Link]]()  [[Project Link]]()  [2024]
+- - [x]  [[Paper Link]]()  [[Project Link]]()  [2024]
+- - [x]  [[Paper Link]]()  [[Project Link]]()  [2024]
+- - [x]  [[Paper Link]]()  [[Project Link]]()  [2024] -->
+  
 # 🏁 **Interactive**
 - - [x] Learning to Learn Faster from Human Feedback
 with Language Model Predictive Control [[Paper Link]](https://arxiv.org/pdf/2402.11450)  [[Project Link]](https://robot-teaching.github.io)  [2024]
@@ -117,7 +143,6 @@ with Language Model Predictive Control [[Paper Link]](https://arxiv.org/pdf/2402
 - - [x]  [[Paper Link]]()  [[Project Link]]()  [2024]
 - - [x]  [[Paper Link]]()  [[Project Link]]()  [2024]
 - - [x]  [[Paper Link]]()  [[Project Link]]()  [2024] -->
-
 
 # 💻 **Simulator**
 - - [x] ORBIT: A Unified Simulation Framework for Interactive Robot Learning Environments [[Paper Link]](https://arxiv.org/abs/2301.04195)  [[Project Link]](https://github.com/isaac-sim/IsaacLab)  [2023]
