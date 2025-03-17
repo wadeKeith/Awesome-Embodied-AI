@@ -1,26 +1,30 @@
 # **Awesome-Embodied-AI (A Quick Guide of Embodied-AI)**
+# 🤖 **About**
 With the rapid advancement of large-scale models, a key question that has drawn considerable attention among researchers is how to equip a model-based intelligent agent with a physical body capable of interacting with the real world. In response, the concept of embodied intelligence has been introduced, attracting a growing community of researchers. To help researchers quickly grasp the frontiers of embodied intelligence and intelligent robotics—and to better promote and publicize developments in this field—this project summarizes representative works in the domain of embodied intelligence and intelligent robotics. It will be continually updated to remain at the cutting edge. If you find any errors while reading through this project, please do not hesitate to contact us to correct them; we greatly appreciate such feedback. Likewise, if you would like to contribute to the further exploration and promotion of embodied intelligence, you are welcome to reach out to me via email: <yinchenghust@outlook.com>.
 ![cover](Assets/cover.png)
 
 # **Table of Contents**
 - [**Awesome-Embodied-AI (A Quick Guide of Embodied-AI)**](#awesome-embodied-ai-a-quick-guide-of-embodied-ai)
+- [🤖 **About**](#-about)
 - [**Table of Contents**](#table-of-contents)
 - [**Symbol representation**](#symbol-representation)
-- [**Survey**](#survey)
-- [**Perception**](#perception)
-- [**Brain Model**](#brain-model)
-- [**VLA Model**](#vla-model)
-- [**Interactive**](#interactive)
-- [**Simulator**](#simulator)
-- [**Dataset**](#dataset)
-- [**Toolkit**](#toolkit)
+- [📑 **Survey**](#-survey)
+- [👁️ **Perception**](#️-perception)
+- [🧠 **Brain Model**](#-brain-model)
+- [🏆 **VLA Model**](#-vla-model)
+- [🏁 **Interactive**](#-interactive)
+- [💻 **Simulator**](#-simulator)
+- [📊 **Dataset**](#-dataset)
+- [🔧 **Toolkit**](#-toolkit)
+- [📖 **Citation**](#-citation)
+- [😊 **Acknowledgements**](#-acknowledgements)
 
 
 # **Symbol representation**
 - [ ] represents closed source.
 - [x] represents open source.
 
-# **Survey**
+# 📑 **Survey**
 
 - Teleoperation of Humanoid Robots: A Survey [[Paper Link]](https://arxiv.org/pdf/2301.04317) [[Project Link]](https://humanoid-teleoperation.github.io) [2023]
 - Deep Learning Approaches to Grasp Synthesis: A Review [[Paper Link]](https://arxiv.org/pdf/2301.04317) [[Project Link]](https://rhys-newbury.github.io/projects/6dof/) [2023]
@@ -51,7 +55,7 @@ In-Hand Manipulation [[Paper Link]](https://arxiv.org/pdf/2401.07915) [2024]
 - - [x]  [[Paper Link]]()  [[Project Link]]()  [2024]
 - - [x]  [[Paper Link]]()  [[Project Link]]()  [2024] -->
 
-# **Perception**
+# 👁️ **Perception**
 - - [ ] RGBGrasp: Image-based Object Grasping by Capturing Multiple Views
 during Robot Arm Movement with Neural Radiance Fields [[Paper Link]](https://arxiv.org/pdf/2311.16592) [[Project Link]](https://sites.google.com/view/rgbgrasp) [2024]
 - - [x] RGBManip: Monocular Image-based Robotic Manipulation
@@ -63,7 +67,7 @@ through Active Object Pose Estimation [[Paper Link]](https://arxiv.org/pdf/2310.
 
 
 
-# **Brain Model**
+# 🧠 **Brain Model**
 - - [x] RACER: Rich Language-Guided Failure Recovery Policies for Imitation Learning [[Paper Link]](https://arxiv.org/abs/2409.14674) [[Project Link]](https://github.com/rich-language-failure-recovery/Open-LLaVA-NeXT/tree/racer_llava?tab=readme-ov-file#51-set-up-language-encoder-service-ie-clip-and-t5-model-around-20gb-in-total) [2024]
 - - [x] Errors are Useful Prompts: Instruction Guided Task Programming with Verifier-Assisted Iterative Prompting [[Paper Link]](https://arxiv.org/abs/2303.14100) [[Project Link]](https://github.com/ac-rad/xdl-generation) [2023]
 - - [x] Generalized Planning in PDDL Domains with Pretrained Large Language Models [[Paper Link]](https://arxiv.org/pdf/2305.11014) [[Project Link]](https://github.com/tomsilver/llm-genplan/) [2023]
@@ -76,7 +80,7 @@ Diffusion Models for Robotic Manipulation [[Paper Link]](https://openreview.net/
 - - [x]  [[Paper Link]]()  [[Project Link]]()  [2024]
 - - [x]  [[Paper Link]]()  [[Project Link]]()  [2024] -->
 
-# **VLA Model**
+# 🏆 **VLA Model**
 - - [x] RDT-1B: A DIFFUSION FOUNDATION MODEL FOR
 BIMANUAL MANIPULATION [[Paper Link]](https://arxiv.org/pdf/2410.07864) [[Project Link]](https://github.com/thu-ml/RoboticsDiffusionTransformer) [2024]
 - - [x] π0: A Vision-Language-Action Flow Model for
@@ -106,7 +110,7 @@ trajectory generation via contact guidance [[Paper Link]](https://arxiv.org/pdf/
 - - [x]  [[Paper Link]]()  [[Project Link]]()  [2024] -->
 
 
-# **Interactive**
+# 🏁 **Interactive**
 - - [x] Learning to Learn Faster from Human Feedback
 with Language Model Predictive Control [[Paper Link]](https://arxiv.org/pdf/2402.11450)  [[Project Link]](https://robot-teaching.github.io)  [2024]
 <!-- - - [x]  [[Paper Link]]()  [[Project Link]]()  [2024]
@@ -115,7 +119,7 @@ with Language Model Predictive Control [[Paper Link]](https://arxiv.org/pdf/2402
 - - [x]  [[Paper Link]]()  [[Project Link]]()  [2024] -->
 
 
-# **Simulator**
+# 💻 **Simulator**
 - - [x] ORBIT: A Unified Simulation Framework for Interactive Robot Learning Environments [[Paper Link]](https://arxiv.org/abs/2301.04195)  [[Project Link]](https://github.com/isaac-sim/IsaacLab)  [2023]
 - - [ ] Gazebo [[Paper Link]](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=79f91c1c95271a075b91e9fdca43d6c31e4cbe17)  [[Project Link]](https://gazebosim.org/home)  [2004]
 - - [ ] Pybullet, a python module for physics simulation for games, robotics and machine learning  [[Project Link]](https://github.com/bulletphysics/bullet3)  [2021]
@@ -173,7 +177,7 @@ Collaboration in a Shared Workspace [[Paper Link]](https://arxiv.org/abs/2406.06
 - - [x]  [[Paper Link]]()  [[Project Link]]()  [2024]
 - - [x]  [[Paper Link]]()  [[Project Link]]()  [2024]
 - - [x]  [[Paper Link]]()  [[Project Link]]()  [2024] -->
-# **Dataset**
+# 📊 **Dataset**
 - - [ ] Efficient Grasping from RGBD Images: Learning using a new
 Rectangle Representation [[Paper Link]](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=3c104b0e182a5f514d3aebecc93629bbcf1434ac)   [2011]
 - - [x] Real-World Multiobject, Multigrasp Detection [[Paper Link]](https://ieeexplore.ieee.org/abstract/document/8403246)  [[Project Link]](https://github.com/ivalab/grasp_multiObject_multiGrasp)  [2018]
@@ -222,10 +226,22 @@ for Bimanual Teleoperation [[Paper Link]](https://aloha-2.github.io/assets/aloha
 - - [x]  [[Paper Link]]()  [[Project Link]]()  [2024]
 - - [x]  [[Paper Link]]()  [[Project Link]]()  [2024]
 - - [x]  [[Paper Link]]()  [[Project Link]]()  [2024] -->
-# **Toolkit**
+# 🔧 **Toolkit**
 - - [x] PyRep: Bringing V-REP to Deep Robot Learning [[Paper Link]](https://arxiv.org/abs/1906.11176)  [[Project Link]](https://github.com/stepjam/PyRep)  [2024]
 - - [x] Yet Another Robotics and Reinforcement learning framework for PyTorch [[Project Link]](https://github.com/stepjam/YARR)  [2024]
 <!-- - - [x]  [[Paper Link]]()  [[Project Link]]()  [2024]
 - - [x]  [[Paper Link]]()  [[Project Link]]()  [2024]
 - - [x]  [[Paper Link]]()  [[Project Link]]()  [2024]
 - - [x]  [[Paper Link]]()  [[Project Link]]()  [2024] -->
+
+# 📖 **Citation**
+> If you think this repository is helpful, please feel free to leave a star ⭐️ 
+
+# 😊 **Acknowledgements**
+Thanks for the repository:
+
+1. [Embodied_AI_Paper_List](https://github.com/HCPLab-SYSU/Embodied_AI_Paper_List?tab=readme-ov-file#paper-list-for-embodied-ai>)
+2. [OCRM_survey](https://github.com/RayYoh/OCRM_survey?tab=readme-ov-file#sim-to-real-generalization)
+3. [Awesome-Generalist-Robots-via-Foundation-Models](https://github.com/JeffreyYH/Awesome-Generalist-Robots-via-Foundation-Models)
+4. [Awesome-Embodied-Agent-with-LLMs](https://github.com/zchoi/Awesome-Embodied-Agent-with-LLMs?tab=readme-ov-file#survey)
+5. [Awesome-Robotics-Foundation-Models](https://github.com/robotics-survey/Awesome-Robotics-Foundation-Models?tab=readme-ov-file#survey)
