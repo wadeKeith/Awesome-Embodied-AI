@@ -3,9 +3,15 @@
 With the rapid advancement of large-scale models, a key question that has drawn considerable attention among researchers is how to equip a model-based intelligent agent with a physical body capable of interacting with the real world. In response, the concept of embodied intelligence has been introduced, attracting a growing community of researchers. To help researchers quickly grasp the frontiers of embodied intelligence and intelligent robotics—and to better promote and publicize developments in this field—this project summarizes representative works in the domain of embodied intelligence and intelligent robotics. It will be continually updated to remain at the cutting edge. If you find any errors while reading through this project, please do not hesitate to contact us to correct them; we greatly appreciate such feedback. Likewise, if you would like to contribute to the further exploration and promotion of embodied intelligence, you are welcome to reach out to me via email: <yinchenghust@outlook.com>.
 ![cover](Assets/cover.png)
 
+# Author List
+Thank you to all the authors for their contributions to the project.
+
+Cheng Yin, Nengyu Wang, Yimeng Wang, Chenyu Yang, Zhiwen Hu, Yunxiang Mi, Weichen Lin.
+
 # **Table of Contents**
 - [🛫 **Introduction to Embodied Intelligence (A Quick Guide of Embodied-AI)**](#-introduction-to-embodied-intelligence-a-quick-guide-of-embodied-ai)
 - [🤖 **About**](#-about)
+- [Author List](#author-list)
 - [**Table of Contents**](#table-of-contents)
 - [**Symbol representation**](#symbol-representation)
 - [📑 **Survey**](#-survey)
