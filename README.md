@@ -161,6 +161,7 @@ Cheng Yin, Nengyu Wang, Yimeng Wang, Chenyu Yang, Zhiwen Hu, Yunxiang Mi, Weiche
 
 - - [x] Aligning Diffusion Behaviors with Q-functions for Efficient Continuous Control [[Paper Link]](https://arxiv.org/abs/2407.09024) [[Project Link]](https://github.com/thu-ml/Efficient-Diffusion-Alignment) [2024]
 - - [ ] MENTOR: Mixture-of-Experts Network with Task-Oriented Perturbation for Visual Reinforcement Learning [[Paper Link]](https://arxiv.org/abs/2410.14972) [[Project Link]](https://suninghuang19.github.io/mentor_page/) [2024]
+- - [x] Precise and Dexterous Robotic Manipulation via Human-in-the-Loop Reinforcement Learning [[Paper Link]](https://arxiv.org/abs/2410.21845)  [[Project Link]](https://hil-serl.github.io/)  [2024]
 
 <!-- - - [x]  [[Paper Link]]()  [[Project Link]]()  [2024]
 - - [x]  [[Paper Link]]()  [[Project Link]]()  [2024]
@@ -171,7 +172,6 @@ Cheng Yin, Nengyu Wang, Yimeng Wang, Chenyu Yang, Zhiwen Hu, Yunxiang Mi, Weiche
 
 - - [x] Aligning Diffusion Behaviors with Q-functions for Efficient Continuous Control [[Paper Link]](https://arxiv.org/abs/2407.09024)  [[Project Link]](https://github.com/thu-ml/Efficient-Diffusion-Alignment)  [2024]
 - - [ ] MENTOR: Mixture-of-Experts Network with Task-Oriented Perturbation for Visual Reinforcement Learning [[Paper Link]](https://arxiv.org/abs/2410.14972)  [[Project Link]](https://suninghuang19.github.io/mentor_page/)  [2024]
-- - [x] Precise and Dexterous Robotic Manipulation via Human-in-the-Loop Reinforcement Learning [[Paper Link]](https://arxiv.org/abs/2410.21845)  [[Project Link]](https://hil-serl.github.io/)  [2024]
 <!-- - - [x]  [[Paper Link]]()  [[Project Link]]()  [2024]
 - - [x] [[Paper Link]]() [[Project Link]]() [2024]
 - - [x] [[Paper Link]]() [[Project Link]]() [2024]
@@ -232,7 +232,7 @@ Cheng Yin, Nengyu Wang, Yimeng Wang, Chenyu Yang, Zhiwen Hu, Yunxiang Mi, Weiche
 - - [x] Adroit: Manipulators and Manipulation in high dimensional spaces [[Paper Link]](https://digital.lib.washington.edu/researchworks/items/f810e199-f3fe-4918-8603-65790e0fdc16) [[Project Link]](https://github.com/vikashplus/Adroit) [2016]
 - - [x] Gymnasium-Robotics [[Paper Link]](https://robotics.farama.org/release_notes/) [[Project Link]](https://github.com/Farama-Foundation/Gymnasium-Robotics) [2024]
 - - [x] RoboHive: A Unified Framework for Robot Learning [[Paper Link]](https://arxiv.org/abs/2310.06828) [[Project Link]](https://sites.google.com/view/robohive) [2024]
-  <!-- - - [x]  [[Paper Link]]()  [[Project Link]]()  [2024]
+<!-- - - [x]  [[Paper Link]]()  [[Project Link]]()  [2024]
 - - [x] [[Paper Link]]() [[Project Link]]() [2024]
 - - [x] [[Paper Link]]() [[Project Link]]() [2024]
 - - [x] [[Paper Link]]() [[Project Link]]() [2024] -->
@@ -284,7 +284,7 @@ Cheng Yin, Nengyu Wang, Yimeng Wang, Chenyu Yang, Zhiwen Hu, Yunxiang Mi, Weiche
 - - [x] BC-Z: Zero-Shot Task Generalization with Robotic Imitation Learning [[Paper Link]](https://arxiv.org/abs/2202.02005) [[Project Link]](https://sites.google.com/view/bc-z/home?pli=1) [2022]
 - - [x] VIMA: General Robot Manipulation with Multimodal Prompts [[Paper Link]](https://arxiv.org/abs/2210.03094) [[Project Link]](https://vimalabs.github.io) [2023]
 - - [x] FastUMI: A Scalable and Hardware-Independent Universal Manipulation Interface with Dataset [[Paper Link]](https://arxiv.org/abs/2409.19499) [[Project Link]](https://fastumi.com/) [2024]
-  <!-- - - [x]  [[Paper Link]]()  [[Project Link]]()  [2024]
+<!-- - - [x]  [[Paper Link]]()  [[Project Link]]()  [2024]
 - - [x] [[Paper Link]]() [[Project Link]]() [2024]
 - - [x] [[Paper Link]]() [[Project Link]]() [2024]
 - - [x] [[Paper Link]]() [[Project Link]]() [2024] -->
@@ -293,7 +293,7 @@ Cheng Yin, Nengyu Wang, Yimeng Wang, Chenyu Yang, Zhiwen Hu, Yunxiang Mi, Weiche
 
 - - [x] PyRep: Bringing V-REP to Deep Robot Learning [[Paper Link]](https://arxiv.org/abs/1906.11176) [[Project Link]](https://github.com/stepjam/PyRep) [2024]
 - - [x] Yet Another Robotics and Reinforcement learning framework for PyTorch [[Project Link]](https://github.com/stepjam/YARR) [2024]
-  <!-- - - [x]  [[Paper Link]]()  [[Project Link]]()  [2024]
+<!-- - - [x]  [[Paper Link]]()  [[Project Link]]()  [2024]
 - - [x] [[Paper Link]]() [[Project Link]]() [2024]
 - - [x] [[Paper Link]]() [[Project Link]]() [2024]
 - - [x] [[Paper Link]]() [[Project Link]]() [2024] -->
