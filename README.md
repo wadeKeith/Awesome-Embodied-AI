@@ -106,7 +106,13 @@ Cheng Yin, Nengyu Wang, Yimeng Wang, Chenyu Yang, Zhiwen Hu, Yunxiang Mi, Weiche
 - - [x] Diffusion Policy: Visuomotor Policy Learning via Action Diffusion [[Paper Link]](https://arxiv.org/abs/2303.04137v4) [[Project Link]](https://diffusion-policy.cs.columbia.edu/) [2023]
 - - [x] Learning Fine-Grained Bimanual Manipulation with Low-Cost Hardware [[Paper Link]](https://arxiv.org/abs/2304.13705) [[Project Link]](https://arxiv.org/abs/2304.13705) [2023]
 - - [x] Surgical Robot Transformer (SRT): Imitation Learning for Surgical Tasks [[Paper Link]](https://arxiv.org/abs/2407.12998) [[Project Link]](https://surgical-robot-transformer.github.io/) [2024]
-- - [x] Yell At Your Robot: Improving On-the-Fly from Language Corrections [[Paper Link]](https://arxiv.org/abs/2403.12910) [[Project Link]](https://yay-robot.github.io/) [2024]
+- - [x] Large Language Models for Orchestrating Bimanual Robots [[Paper Link]](https://arxiv.org/abs/2404.02018)  [[Project Link]](https://labor-agent.github.io/)  [2024]
+- - [x] Do As I Can, Not As I Say: Grounding Language in Robotic Affordances [[Paper Link]](https://arxiv.org/abs/2204.01691)  [[Project Link]](https://say-can.github.io/)  [2022]
+- - [x] ManipLLM: Embodied MLLM for Object-Centric Robotic Manipulation [[Paper Link]](https://arxiv.org/abs/2312.16217)  [[Project Link]](https://github.com/clorislili/ManipLLM)  [2023]
+- - [x] 3D Diffusion Policy:Generalizable Visuomotor Policy Learning via Simple 3D Representations [[Paper Link]](https://arxiv.org/abs/2403.03954)  [[Project Link]](https://github.com/YanjieZe/3D-Diffusion-Policy)  [2024]
+- - [x] Prediction with Action: Visual Policy Learning via Joint Denoising Process [[Paper Link]](https://arxiv.org/abs/2411.18179)  [[Project Link]](https://github.com/Robert-gyj/Prediction_with_Action)  [2024]
+- - [x] Real-World Humanoid Locomotion with Reinforcement Learning [[Paper Link]](https://arxiv.org/abs/2303.03381)  [[Project Link]](https://github.com/kyegomez/HLT)  [2023]
+- - [ ] Humanoid Locomotion as Next Token Prediction [[Paper Link]](https://arxiv.org/abs/2402.19469)  [2024]
 
 <!-- - - [x]  [[Paper Link]]()  [[Project Link]]()  [2024]
 - - [x]  [[Paper Link]]()  [[Project Link]]()  [2024]
@@ -145,6 +151,8 @@ Cheng Yin, Nengyu Wang, Yimeng Wang, Chenyu Yang, Zhiwen Hu, Yunxiang Mi, Weiche
 - - [x] Robotic Control via Embodied Chain-of-Thought Reasoning [[Paper Link]](https://arxiv.org/abs/2407.08693) [[Project Link]](https://embodied-cot.github.io) [2025]
 - - [ ] RT-H: Action Hierarchies Using Language [[Paper Link]](https://arxiv.org/abs/2403.01823) [[Project Link]](https://rt-hierarchy.github.io) [2024]
 - - [ ] AgiBot World Colosseo: A Large-scale Manipulation Platform for Scalable and Intelligent Embodied Systems [[Paper Link]](https://arxiv.org/abs/2503.06669) [[Project Link]](https://agibot-world.com) [2025]
+- - [x] OK-Robot: What Really Matters in Integrating Open-Knowledge Models for Robotics [[Paper Link]](https://arxiv.org/abs/2401.12202)  [[Project Link]](https://ok-robot.github.io)  [2024]
+- - [x] VoxPoser: Composable 3D Value Maps for Robotic Manipulation with Language Models[[Paper Link]](https://arxiv.org/abs/2307.05973)  [[Project Link]](https://voxposer.github.io/)  [2023]
 <!-- - - [x]  [[Paper Link]]()  [[Project Link]]()  [2024]
 - - [x] [[Paper Link]]() [[Project Link]]() [2024]
 - - [x] [[Paper Link]]() [[Project Link]]() [2024] -->
@@ -161,8 +169,9 @@ Cheng Yin, Nengyu Wang, Yimeng Wang, Chenyu Yang, Zhiwen Hu, Yunxiang Mi, Weiche
 
 # 🏁 **Interactive**
 
-- - [x] Learning to Learn Faster from Human Feedback with Language Model Predictive Control [[Paper Link]](https://arxiv.org/pdf/2402.11450) [[Project Link]](https://robot-teaching.github.io) [2024]
-- - [x] Learning from Massive Human Videos for Universal Humanoid Pose Control [[Paper Link]](https://arxiv.org/abs/2412.14172) [[Project Link]](https://usc-gvl.github.io/UH-1/) [2024]
+- - [x] Aligning Diffusion Behaviors with Q-functions for Efficient Continuous Control [[Paper Link]](https://arxiv.org/abs/2407.09024)  [[Project Link]](https://github.com/thu-ml/Efficient-Diffusion-Alignment)  [2024]
+- - [ ] MENTOR: Mixture-of-Experts Network with Task-Oriented Perturbation for Visual Reinforcement Learning [[Paper Link]](https://arxiv.org/abs/2410.14972)  [[Project Link]](https://suninghuang19.github.io/mentor_page/)  [2024]
+- - [x] Precise and Dexterous Robotic Manipulation via Human-in-the-Loop Reinforcement Learning [[Paper Link]](https://arxiv.org/abs/2410.21845)  [[Project Link]](https://hil-serl.github.io/)  [2024]
 <!-- - - [x]  [[Paper Link]]()  [[Project Link]]()  [2024]
 - - [x] [[Paper Link]]() [[Project Link]]() [2024]
 - - [x] [[Paper Link]]() [[Project Link]]() [2024]
