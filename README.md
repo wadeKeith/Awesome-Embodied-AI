@@ -93,7 +93,7 @@ Diffusion Models for Robotic Manipulation [[Paper Link]](https://openreview.net/
 - - [x] Do As I Can, Not As I Say: Grounding Language in Robotic Affordances [[Paper Link]](https://arxiv.org/abs/2204.01691)  [[Project Link]](https://say-can.github.io)  [2022]
 - - [x] RoboMatrix: A Skill-centric Hierarchical Framework for Scalable Robot Task Planning and Execution in Open-World [[Paper Link]](https://arxiv.org/abs/2412.00171)  [[Project Link]](https://github.com/WayneMao/RoboMatrix)  [2024]
 - - [ ] Look Before You Leap: Unveiling the Power of GPT-4V in Robotic Vision-Language Planning [[Paper Link]](https://arxiv.org/abs/2311.17842)  [[Project Link]](https://robot-vila.github.io)  [2023]
-- **Imitation learning**
+- 
 - - [x] Mobile ALOHA: Learning Bimanual Mobile Manipulation with Low-Cost Whole-Body Teleoperation [[Paper Link]](https://arxiv.org/abs/2401.02117)  [[Project Link]](https://mobile-aloha.github.io/cn.html)  [2024]
 - - [x] DexCap: Scalable and Portable Mocap Data Collection System for Dexterous Manipulation [[Paper Link]](https://arxiv.org/abs/2403.07788)  [[Project Link]](https://github.com/j96w/DexCap)  [2024]
 - - [x] HumanPlus: Humanoid Shadowing and Imitation from Humans [[Paper Link]](https://arxiv.org/abs/2406.10454)  [[Project Link]](https://humanoid-ai.github.io/)  [2024]
