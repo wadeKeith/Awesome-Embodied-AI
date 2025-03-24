@@ -93,6 +93,17 @@ Diffusion Models for Robotic Manipulation [[Paper Link]](https://openreview.net/
 - - [x] Do As I Can, Not As I Say: Grounding Language in Robotic Affordances [[Paper Link]](https://arxiv.org/abs/2204.01691)  [[Project Link]](https://say-can.github.io)  [2022]
 - - [x] RoboMatrix: A Skill-centric Hierarchical Framework for Scalable Robot Task Planning and Execution in Open-World [[Paper Link]](https://arxiv.org/abs/2412.00171)  [[Project Link]](https://github.com/WayneMao/RoboMatrix)  [2024]
 - - [ ] Look Before You Leap: Unveiling the Power of GPT-4V in Robotic Vision-Language Planning [[Paper Link]](https://arxiv.org/abs/2311.17842)  [[Project Link]](https://robot-vila.github.io)  [2023]
+- **Imitation learning**
+- - [ ] Mobile ALOHA: Learning Bimanual Mobile Manipulation with Low-Cost Whole-Body Teleoperation [[Paper Link]](https://arxiv.org/abs/2401.02117)  [[Project Link]](https://mobile-aloha.github.io/cn.html)  [2024]
+- - [x] DexCap: Scalable and Portable Mocap Data Collection System for Dexterous Manipulation [[Paper Link]](https://arxiv.org/abs/2403.07788)  [[Project Link]](https://github.com/j96w/DexCap)  [2024]
+- - [x] HumanPlus: Humanoid Shadowing and Imitation from Humans [[Paper Link]](https://arxiv.org/abs/2406.10454)  [[Project Link]](https://humanoid-ai.github.io/)  [2024]
+- - [x] On Bringing Robots Home [[Paper Link]](https://arxiv.org/abs/2311.16098)  [[Project Link]](https://github.com/notmahi/dobb-e)  [2023]
+- - [x] Universal Manipulation Interface: In-The-Wild Robot Teaching Without In-The-Wild Robots [[Paper Link]](https://arxiv.org/abs/2402.10329)  [[Project Link]](https://umi-gripper.github.io/)  [2024]
+- - [x] Diffusion Policy: Visuomotor Policy Learning via Action Diffusion [[Paper Link]](https://arxiv.org/abs/2303.04137v4)  [[Project Link]](https://diffusion-policy.cs.columbia.edu/)  [2023]
+- - 
+- - 
+- - 
+
 <!-- - - [x]  [[Paper Link]]()  [[Project Link]]()  [2024]
 - - [x]  [[Paper Link]]()  [[Project Link]]()  [2024]
 - - [x]  [[Paper Link]]()  [[Project Link]]()  [2024] -->
@@ -253,6 +264,7 @@ for Bimanual Teleoperation [[Paper Link]](https://aloha-2.github.io/assets/aloha
 - - [x] MT-Opt: Continuous Multi-Task Robotic Reinforcement Learning at Scale [[Paper Link]](https://arxiv.org/abs/2104.08212)  [[Project Link]](https://karolhausman.github.io/mt-opt/)  [2021]
 - - [x] BC-Z: Zero-Shot Task Generalization with Robotic Imitation Learning [[Paper Link]](https://arxiv.org/abs/2202.02005)  [[Project Link]](https://sites.google.com/view/bc-z/home?pli=1)  [2022]
 - - [x] VIMA: General Robot Manipulation with Multimodal Prompts [[Paper Link]](https://arxiv.org/abs/2210.03094)  [[Project Link]](https://vimalabs.github.io)  [2023]
+- - [x] FastUMI: A Scalable and Hardware-Independent Universal Manipulation Interface with Dataset [[Paper Link]](https://arxiv.org/abs/2409.19499)  [[Project Link]](https://fastumi.com/)  [2024]
 <!-- - - [x]  [[Paper Link]]()  [[Project Link]]()  [2024]
 - - [x]  [[Paper Link]]()  [[Project Link]]()  [2024]
 - - [x]  [[Paper Link]]()  [[Project Link]]()  [2024]
