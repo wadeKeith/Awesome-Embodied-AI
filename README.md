@@ -94,15 +94,15 @@ Diffusion Models for Robotic Manipulation [[Paper Link]](https://openreview.net/
 - - [x] RoboMatrix: A Skill-centric Hierarchical Framework for Scalable Robot Task Planning and Execution in Open-World [[Paper Link]](https://arxiv.org/abs/2412.00171)  [[Project Link]](https://github.com/WayneMao/RoboMatrix)  [2024]
 - - [ ] Look Before You Leap: Unveiling the Power of GPT-4V in Robotic Vision-Language Planning [[Paper Link]](https://arxiv.org/abs/2311.17842)  [[Project Link]](https://robot-vila.github.io)  [2023]
 - **Imitation learning**
-- - [ ] Mobile ALOHA: Learning Bimanual Mobile Manipulation with Low-Cost Whole-Body Teleoperation [[Paper Link]](https://arxiv.org/abs/2401.02117)  [[Project Link]](https://mobile-aloha.github.io/cn.html)  [2024]
+- - [x] Mobile ALOHA: Learning Bimanual Mobile Manipulation with Low-Cost Whole-Body Teleoperation [[Paper Link]](https://arxiv.org/abs/2401.02117)  [[Project Link]](https://mobile-aloha.github.io/cn.html)  [2024]
 - - [x] DexCap: Scalable and Portable Mocap Data Collection System for Dexterous Manipulation [[Paper Link]](https://arxiv.org/abs/2403.07788)  [[Project Link]](https://github.com/j96w/DexCap)  [2024]
 - - [x] HumanPlus: Humanoid Shadowing and Imitation from Humans [[Paper Link]](https://arxiv.org/abs/2406.10454)  [[Project Link]](https://humanoid-ai.github.io/)  [2024]
 - - [x] On Bringing Robots Home [[Paper Link]](https://arxiv.org/abs/2311.16098)  [[Project Link]](https://github.com/notmahi/dobb-e)  [2023]
 - - [x] Universal Manipulation Interface: In-The-Wild Robot Teaching Without In-The-Wild Robots [[Paper Link]](https://arxiv.org/abs/2402.10329)  [[Project Link]](https://umi-gripper.github.io/)  [2024]
 - - [x] Diffusion Policy: Visuomotor Policy Learning via Action Diffusion [[Paper Link]](https://arxiv.org/abs/2303.04137v4)  [[Project Link]](https://diffusion-policy.cs.columbia.edu/)  [2023]
-- - 
-- - 
-- - 
+- - [x] Learning Fine-Grained Bimanual Manipulation with Low-Cost Hardware [[Paper Link]](https://arxiv.org/abs/2304.13705)  [[Project Link]](https://arxiv.org/abs/2304.13705)  [2023]
+- - [x] Surgical Robot Transformer (SRT): Imitation Learning for Surgical Tasks [[Paper Link]](https://arxiv.org/abs/2407.12998)  [[Project Link]](https://surgical-robot-transformer.github.io/)  [2024]
+- - [x] Yell At Your Robot: Improving On-the-Fly from Language Corrections [[Paper Link]](https://arxiv.org/abs/2403.12910)  [[Project Link]](https://yay-robot.github.io/)  [2024]
 
 <!-- - - [x]  [[Paper Link]]()  [[Project Link]]()  [2024]
 - - [x]  [[Paper Link]]()  [[Project Link]]()  [2024]
