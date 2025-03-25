@@ -162,7 +162,33 @@ Cheng Yin, Nengyu Wang, Yimeng Wang, Chenyu Yang, Zhiwen Hu, Yunxiang Mi, Weiche
 # 🏁 **Interactive**
 
 - - [x] Learning to Learn Faster from Human Feedback with Language Model Predictive Control [[Paper Link]](https://arxiv.org/pdf/2402.11450) [[Project Link]](https://robot-teaching.github.io) [2024]
+- - [ ] ELEGNT: Expressive and Functional Movement Design for Non-anthropomorphic Robot [[Paper Link]](https://arxiv.org/abs/2501.12493) [[Project Link]](https://machinelearning.apple.com/research/elegnt-expressive-functional-movement) [2025]
+- - [ ] Exploring the Design Space of Extra-Linguistic Expression for Robots [[Paper Link]](https://arxiv.org/abs/2306.15828) [2023]
+- - [ ] Collection of Metaphors for Human-Robot Interaction [[Paper Link]](https://dl.acm.org/doi/10.1145/3461778.3462060) [2021]
+
+- - [x] RHINO: Learning Real-Time Humanoid-Human-Object Interaction from Human Demonstrations [[Paper Link]](https://arxiv.org/abs/2502.13134) [[Project Link]](https://humanoid-interaction.github.io/) [2025]
+- - [x] ASAP: Aligning Simulation and Real-World Physics for Learning Agile Humanoid Whole-Body Skills [[Paper Link]](https://arxiv.org/abs/2502.01143) [[Project Link]](https://agile.human2humanoid.com/) [2025]
+- - [x] ExBody2: Advanced Expressive Humanoid Whole-Body Control [[Paper Link]](https://arxiv.org/abs/2412.13196) [[Project Link]](https://exbody2.github.io/) [2024]
+- - [x] Expressive Whole-Body Control for Humanoid Robots [[Paper Link]](https://arxiv.org/abs/2402.16796) [[Project Link]](https://expressive-humanoid.github.io/) [2024]
+- - [x] HOVER: Versatile Neural Whole-Body Controller for Humanoid Robots [[Paper Link]](https://arxiv.org/abs/2410.21229) [[Project Link]](https://hover-versatile-humanoid.github.io/) [2024]
+- - [x] OmniH2O: Universal and Dexterous Human-to-Humanoid Whole-Body Teleoperation and Learning [[Paper Link]](https://arxiv.org/abs/2406.08858) [[Project Link]](https://omni.human2humanoid.com/) [2024]
+- - [x] Learning Human-to-Humanoid Real-Time Whole-Body Teleoperation [[Paper Link]](https://arxiv.org/abs/2403.04436) [[Project Link]](https://human2humanoid.com/) [2024]
 - - [x] Learning from Massive Human Videos for Universal Humanoid Pose Control [[Paper Link]](https://arxiv.org/abs/2412.14172) [[Project Link]](https://usc-gvl.github.io/UH-1/) [2024]
+- - [x] HumanPlus: Humanoid Shadowing and Imitation from Humans [[Paper Link]](https://arxiv.org/abs/2406.10454) [[Project Link]](https://humanoid-ai.github.io/) [2024]
+- - [ ] Humanoid-VLA: Towards Universal Humanoid Control with Visual Integration [[Paper Link]](https://arxiv.org/abs/2502.14795) [2025]
+- - [ ] XBG: End-to-End Imitation Learning for Autonomous Behaviour in Human-Robot Interaction and Collaboration [[Paper Link]](https://arxiv.org/abs/2406.15833) [2024]
+- - [ ] EMOTION: Expressive Motion Sequence Generation for Humanoid Robots with In-Context Learning [[Paper Link]](https://arxiv.org/abs/2410.23234) [[Project Link]](https://machinelearning.apple.com/research/emotion-expressive-motion) [2024]
+- - [ ] HARMON: Whole-Body Motion Generation of Humanoid Robots from Language Descriptions [[Paper Link]](https://arxiv.org/abs/2410.12773) [[Project Link]](https://ut-austin-rpl.github.io/Harmon/) [2024]
+- - [ ] ImitationNet: Unsupervised Human-to-Robot Motion Retargeting via Shared Latent Space [[Paper Link]](https://arxiv.org/abs/2309.05310) [[Project Link]](https://evm7.github.io/UnsH2R/) [2023]
+
+- - [ ] FABG : End-to-end Imitation Learning for Embodied Affective Human-Robot Interaction [[Paper Link]](https://arxiv.org/abs/2503.01363) [[Project Link]](https://cybergenies.github.io/) [2025]
+- - [ ] HAPI: A Model for Learning Robot Facial Expressions from Human Preferences [[Paper Link]](https://arxiv.org/abs/2503.17046) [2025]
+- - [ ] Human-robot facial coexpression [[Paper Link]](https://www.science.org/doi/epdf/10.1126/scirobotics.adi4724) [2024]
+- - [ ] Knowing Where to Look: A Planning-based Architecture to Automate the Gaze Behavior of Social Robots* [[Paper Link]](https://arxiv.org/abs/2210.02866) [2022]
+- - [ ] Unlocking Human-Like Facial Expressions in Humanoid Robots: A Novel Approach for Action Unit Driven Facial Expression Disentangled Synthesis [[Paper Link]](https://ieeexplore.ieee.org/document/10582526) [2024]
+- - [ ] UGotMe: An Embodied System for Affective Human-Robot Interaction [[Paper Link]](https://arxiv.org/abs/2410.18373) [2024]
+- - [ ] Naturalistic Head Motion Generation from Speech [[Paper Link]](https://arxiv.org/abs/2210.14800v1) [2022]
+
 <!-- - - [x]  [[Paper Link]]()  [[Project Link]]()  [2024]
 - - [x] [[Paper Link]]() [[Project Link]]() [2024]
 - - [x] [[Paper Link]]() [[Project Link]]() [2024]
@@ -223,7 +249,7 @@ Cheng Yin, Nengyu Wang, Yimeng Wang, Chenyu Yang, Zhiwen Hu, Yunxiang Mi, Weiche
 - - [x] Adroit: Manipulators and Manipulation in high dimensional spaces [[Paper Link]](https://digital.lib.washington.edu/researchworks/items/f810e199-f3fe-4918-8603-65790e0fdc16) [[Project Link]](https://github.com/vikashplus/Adroit) [2016]
 - - [x] Gymnasium-Robotics [[Paper Link]](https://robotics.farama.org/release_notes/) [[Project Link]](https://github.com/Farama-Foundation/Gymnasium-Robotics) [2024]
 - - [x] RoboHive: A Unified Framework for Robot Learning [[Paper Link]](https://arxiv.org/abs/2310.06828) [[Project Link]](https://sites.google.com/view/robohive) [2024]
-  <!-- - - [x]  [[Paper Link]]()  [[Project Link]]()  [2024]
+<!-- - - [x]  [[Paper Link]]()  [[Project Link]]()  [2024]
 - - [x] [[Paper Link]]() [[Project Link]]() [2024]
 - - [x] [[Paper Link]]() [[Project Link]]() [2024]
 - - [x] [[Paper Link]]() [[Project Link]]() [2024] -->
@@ -275,7 +301,7 @@ Cheng Yin, Nengyu Wang, Yimeng Wang, Chenyu Yang, Zhiwen Hu, Yunxiang Mi, Weiche
 - - [x] BC-Z: Zero-Shot Task Generalization with Robotic Imitation Learning [[Paper Link]](https://arxiv.org/abs/2202.02005) [[Project Link]](https://sites.google.com/view/bc-z/home?pli=1) [2022]
 - - [x] VIMA: General Robot Manipulation with Multimodal Prompts [[Paper Link]](https://arxiv.org/abs/2210.03094) [[Project Link]](https://vimalabs.github.io) [2023]
 - - [x] FastUMI: A Scalable and Hardware-Independent Universal Manipulation Interface with Dataset [[Paper Link]](https://arxiv.org/abs/2409.19499) [[Project Link]](https://fastumi.com/) [2024]
-  <!-- - - [x]  [[Paper Link]]()  [[Project Link]]()  [2024]
+<!-- - - [x]  [[Paper Link]]()  [[Project Link]]()  [2024]
 - - [x] [[Paper Link]]() [[Project Link]]() [2024]
 - - [x] [[Paper Link]]() [[Project Link]]() [2024]
 - - [x] [[Paper Link]]() [[Project Link]]() [2024] -->
@@ -284,7 +310,7 @@ Cheng Yin, Nengyu Wang, Yimeng Wang, Chenyu Yang, Zhiwen Hu, Yunxiang Mi, Weiche
 
 - - [x] PyRep: Bringing V-REP to Deep Robot Learning [[Paper Link]](https://arxiv.org/abs/1906.11176) [[Project Link]](https://github.com/stepjam/PyRep) [2024]
 - - [x] Yet Another Robotics and Reinforcement learning framework for PyTorch [[Project Link]](https://github.com/stepjam/YARR) [2024]
-  <!-- - - [x]  [[Paper Link]]()  [[Project Link]]()  [2024]
+<!-- - - [x]  [[Paper Link]]()  [[Project Link]]()  [2024]
 - - [x] [[Paper Link]]() [[Project Link]]() [2024]
 - - [x] [[Paper Link]]() [[Project Link]]() [2024]
 - - [x] [[Paper Link]]() [[Project Link]]() [2024] -->
