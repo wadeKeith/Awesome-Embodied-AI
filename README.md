@@ -173,6 +173,8 @@ Cheng Yin, Nengyu Wang, Yimeng Wang, Chenyu Yang, Zhiwen Hu, Yunxiang Mi, Weiche
 
 - - [x] Learning to Learn Faster from Human Feedback with Language Model Predictive Control [[Paper Link]](https://arxiv.org/abs/2402.11450) [[Project Link]](https://robot-teaching.github.io) [2024]
 - - [ ] ELEGNT: Expressive and Functional Movement Design for Non-anthropomorphic Robot [[Paper Link]](https://arxiv.org/abs/2501.12493) [[Project Link]](https://machinelearning.apple.com/research/elegnt-expressive-functional-movement) [2025]
+- - [ ] Generative Expressive Robot Behaviors using Large Language Models [[Paper Link]](https://arxiv.org/abs/2401.14673) [[Project Link]](https://generative-expressive-motion.github.io/) [2024]
+- - [ ] A Generative Model to Embed Human Expressivity into Robot Motions [[Paper Link]](https://www.mdpi.com/1424-8220/24/2/569) [2024]
 - - [ ] Exploring the Design Space of Extra-Linguistic Expression for Robots [[Paper Link]](https://arxiv.org/abs/2306.15828) [2023]
 - - [ ] Collection of Metaphors for Human-Robot Interaction [[Paper Link]](https://dl.acm.org/doi/10.1145/3461778.3462060) [2021]
 
