@@ -180,6 +180,7 @@ Cheng Yin, Nengyu Wang, Yimeng Wang, Chenyu Yang, Zhiwen Hu, Yunxiang Mi, Weiche
 - - [ ] EMOTION: Expressive Motion Sequence Generation for Humanoid Robots with In-Context Learning [[Paper Link]](https://arxiv.org/abs/2410.23234) [[Project Link]](https://machinelearning.apple.com/research/emotion-expressive-motion) [2024]
 - - [ ] HARMON: Whole-Body Motion Generation of Humanoid Robots from Language Descriptions [[Paper Link]](https://arxiv.org/abs/2410.12773) [[Project Link]](https://ut-austin-rpl.github.io/Harmon/) [2024]
 - - [ ] ImitationNet: Unsupervised Human-to-Robot Motion Retargeting via Shared Latent Space [[Paper Link]](https://arxiv.org/abs/2309.05310) [[Project Link]](https://evm7.github.io/UnsH2R/) [2023]
+- - [x] C-3PO: Cyclic-Three-Phase Optimization for Human-Robot Motion Retargeting based on Reinforcement Learning [[Paper Link]](https://arxiv.org/abs/1909.11303) [[Project Link]](https://github.com/taewookim0812/C-3PO_Motion_Retargeting_Module) [2019]
 
 - - [ ] FABG : End-to-end Imitation Learning for Embodied Affective Human-Robot Interaction [[Paper Link]](https://arxiv.org/abs/2503.01363) [[Project Link]](https://cybergenies.github.io/) [2025]
 - - [ ] HAPI: A Model for Learning Robot Facial Expressions from Human Preferences [[Paper Link]](https://arxiv.org/abs/2503.17046) [2025]
