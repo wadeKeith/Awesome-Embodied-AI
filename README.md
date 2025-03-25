@@ -161,7 +161,7 @@ Cheng Yin, Nengyu Wang, Yimeng Wang, Chenyu Yang, Zhiwen Hu, Yunxiang Mi, Weiche
 
 # 🏁 **Interactive**
 
-- - [x] Learning to Learn Faster from Human Feedback with Language Model Predictive Control [[Paper Link]](https://arxiv.org/pdf/2402.11450) [[Project Link]](https://robot-teaching.github.io) [2024]
+- - [x] Learning to Learn Faster from Human Feedback with Language Model Predictive Control [[Paper Link]](https://arxiv.org/abs/2402.11450) [[Project Link]](https://robot-teaching.github.io) [2024]
 - - [ ] ELEGNT: Expressive and Functional Movement Design for Non-anthropomorphic Robot [[Paper Link]](https://arxiv.org/abs/2501.12493) [[Project Link]](https://machinelearning.apple.com/research/elegnt-expressive-functional-movement) [2025]
 - - [ ] Exploring the Design Space of Extra-Linguistic Expression for Robots [[Paper Link]](https://arxiv.org/abs/2306.15828) [2023]
 - - [ ] Collection of Metaphors for Human-Robot Interaction [[Paper Link]](https://dl.acm.org/doi/10.1145/3461778.3462060) [2021]
@@ -184,9 +184,9 @@ Cheng Yin, Nengyu Wang, Yimeng Wang, Chenyu Yang, Zhiwen Hu, Yunxiang Mi, Weiche
 - - [ ] FABG : End-to-end Imitation Learning for Embodied Affective Human-Robot Interaction [[Paper Link]](https://arxiv.org/abs/2503.01363) [[Project Link]](https://cybergenies.github.io/) [2025]
 - - [ ] HAPI: A Model for Learning Robot Facial Expressions from Human Preferences [[Paper Link]](https://arxiv.org/abs/2503.17046) [2025]
 - - [ ] Human-robot facial coexpression [[Paper Link]](https://www.science.org/doi/epdf/10.1126/scirobotics.adi4724) [2024]
-- - [ ] Knowing Where to Look: A Planning-based Architecture to Automate the Gaze Behavior of Social Robots* [[Paper Link]](https://arxiv.org/abs/2210.02866) [2022]
 - - [ ] Unlocking Human-Like Facial Expressions in Humanoid Robots: A Novel Approach for Action Unit Driven Facial Expression Disentangled Synthesis [[Paper Link]](https://ieeexplore.ieee.org/document/10582526) [2024]
 - - [ ] UGotMe: An Embodied System for Affective Human-Robot Interaction [[Paper Link]](https://arxiv.org/abs/2410.18373) [2024]
+- - [ ] Knowing Where to Look: A Planning-based Architecture to Automate the Gaze Behavior of Social Robots* [[Paper Link]](https://arxiv.org/abs/2210.02866) [2022]
 - - [ ] Naturalistic Head Motion Generation from Speech [[Paper Link]](https://arxiv.org/abs/2210.14800v1) [2022]
 
 <!-- - - [x]  [[Paper Link]]()  [[Project Link]]()  [2024]
