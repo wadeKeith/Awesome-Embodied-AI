@@ -186,6 +186,7 @@ Cheng Yin, Nengyu Wang, Yimeng Wang, Chenyu Yang, Zhiwen Hu, Yunxiang Mi, Weiche
 - - [x] OmniH2O: Universal and Dexterous Human-to-Humanoid Whole-Body Teleoperation and Learning [[Paper Link]](https://arxiv.org/abs/2406.08858) [[Project Link]](https://omni.human2humanoid.com/) [2024]
 - - [x] Learning Human-to-Humanoid Real-Time Whole-Body Teleoperation [[Paper Link]](https://arxiv.org/abs/2403.04436) [[Project Link]](https://human2humanoid.com/) [2024]
 - - [x] Learning from Massive Human Videos for Universal Humanoid Pose Control [[Paper Link]](https://arxiv.org/abs/2412.14172) [[Project Link]](https://usc-gvl.github.io/UH-1/) [2024]
+- - [x] Mobile-TeleVision: Predictive Motion Priors for Humanoid Whole-Body Control [[Paper Link]](https://arxiv.org/abs/2412.07773) [[Project Link]](https://mobile-tv.github.io/) [2024]
 - - [x] HumanPlus: Humanoid Shadowing and Imitation from Humans [[Paper Link]](https://arxiv.org/abs/2406.10454) [[Project Link]](https://humanoid-ai.github.io/) [2024]
 - - [ ] Humanoid-VLA: Towards Universal Humanoid Control with Visual Integration [[Paper Link]](https://arxiv.org/abs/2502.14795) [2025]
 - - [ ] XBG: End-to-End Imitation Learning for Autonomous Behaviour in Human-Robot Interaction and Collaboration [[Paper Link]](https://arxiv.org/abs/2406.15833) [2024]
