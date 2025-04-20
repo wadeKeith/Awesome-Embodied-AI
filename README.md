@@ -125,7 +125,7 @@ Cheng Yin, Nengyu Wang, Yimeng Wang, Chenyu Yang, Zhiwen Hu, Yunxiang Mi, Weiche
 - - [ ] RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control [[Paper Link]](https://arxiv.org/abs/2307.15818)  [2023]
 - - [x] OpenVLA: An Open-Source Vision-Language-Action Model [[Paper Link]](https://arxiv.org/abs/2406.09246)  [[Project Link]](https://openvla.github.io)  [2024]
 - - [x] π0: A Vision-Language-Action Flow Model for General Robot Control [[Paper Link]](https://arxiv.org/abs/2410.24164)  [[Project Link]](https://github.com/Physical-Intelligence/openpi)  [2024]
-- - [ ] Embodied-Reasoner: Synergizing Visual Search, Reasoning, and Action for Embodied Interactive Tasks[[Paper Link]](https://arxiv.org/abs/2503.21696)  [[Project Link]](https://github.com/zwq2018/embodied_reasoner)  [2025]
+- - [x] Embodied-Reasoner: Synergizing Visual Search, Reasoning, and Action for Embodied Interactive Tasks[[Paper Link]](https://arxiv.org/abs/2503.21696)  [[Project Link]](https://github.com/zwq2018/embodied_reasoner)  [2025]
 
 <!-- - - [x]  [[Paper Link]]()  [[Project Link]]()  [2024]
 - - [x]  [[Paper Link]]()  [[Project Link]]()  [2024]
