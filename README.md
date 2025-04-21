@@ -9,7 +9,7 @@ With the rapid advancement of large-scale models, a key question that has drawn 
 
 Thank you to all the authors for their contributions to the project.
 
-Cheng Yin, Nengyu Wang, Yimeng Wang, Chenyu Yang, Zhiwen Hu, Yunxiang Mi, Weichen Lin.
+Cheng Yin, Chenyu Yang, Zhiwen Hu, Yunxiang Mi, Weichen Lin.
 
 # **Table of Contents**
 
