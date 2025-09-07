@@ -62,6 +62,8 @@ Cheng Yin, Chenyu Yang, Zhiwen Hu, Yunxiang Mi, Weichen Lin.
 - Neural Scaling Laws in Robotics [[Paper Link]](https://arxiv.org/abs/2405.14005) [2025]
 - Deep Reinforcement Learning for Robotics: A Survey of Real-World Successes [[Paper Link]](https://arxiv.org/abs/2408.03539) [2024]
 - Aligning Cyber Space with Physical World: A Comprehensive Survey on Embodied AI [[Paper Link]](https://arxiv.org/abs/2407.06886) [[Project Link]](https://github.com/HCPLab-SYSU/Embodied_AI_Paper_List) [2024]
+- Controllable Text Generation for Large Language Models: A Survey [[Paper Link]](https://arxiv.org/abs/2408.12599) [[Project Link]](https://github.com/IAAR-Shanghai/CTGSurvey) [2024]
+- Bridging Language and Action A Survey of Language-Conditioned Robot Manipulation [[Paper Link]](https://arxiv.org/abs/2312.10807) [2023]
 <!-- - - [x]  [[Paper Link]]()  [[Project Link]]()  [2024]
 - - [x] [[Paper Link]]() [[Project Link]]() [2024]
 - - [x] [[Paper Link]]() [[Project Link]]() [2024] -->
@@ -73,6 +75,12 @@ Cheng Yin, Chenyu Yang, Zhiwen Hu, Yunxiang Mi, Weichen Lin.
 - - [x] ManipLLM: Embodied Multimodal Large Language Model for Object-Centric Robotic Manipulation [[Paper Link]](https://arxiv.org/abs/2312.16217) [[Project Link]](https://github.com/clorislili/ManipLLM) [2023]
 - - [x] Play to the Score: Stage-Guided Dynamic Multi-Sensory Fusion for Robotic Manipulation [[Paper Link]](https://arxiv.org/abs/2408.01366) [[Project Link]](https://gewu-lab.github.io/MS-Bot/) [2024]
 - - [ ] A Contact Model based on Denoising Diffusion to Learn Variable Impedance Control for Contact-rich Manipulation [[Paper Link]](https://arxiv.org/abs/2403.13221) [2024]
+- - [x] FoundationPose: Unified 6D Pose Estimation and Tracking of Novel Objects [[Paper Link]](https://openaccess.thecvf.com/content/CVPR2024/html/Wen_FoundationPose_Unified_6D_Pose_Estimation_and_Tracking_of_Novel_Objects_CVPR_2024_paper.html) [[Project Link]](https://github.com/NVlabs/FoundationPose) [2024]
+- - [x] BundleSDF: Neural 6-DoF Tracking and 3D Reconstruction of Unknown Objects [[Paper Link]](https://openaccess.thecvf.com/content/CVPR2023/html/Wen_BundleSDF_Neural_6-DoF_Tracking_and_3D_Reconstruction_of_Unknown_Objects_CVPR_2023_paper.html) [[Project Link]](https://github.com/NVlabs/BundleSDF) [2023]
+- - [x] TacDiffusion: Force-domain Diffusion Policy for Precise Tactile Manipulation [[Paper Link]](https://arxiv.org/abs/2409.11047) [[Project Link]](https://github.com/popnut123/TacDiffusion) [2024]
+- - [x] GelFusion: Enhancing Robotic Manipulation under Visual Constraints via Visuotactile Fusion [[Paper Link]](https://arxiv.org/abs/2505.07455) [[Project Link]](https://github.com/GelFusion/GelFusion) [2025]
+- - [x] Antipodal Robotic Grasping using Generative Residual Convolutional Neural Network [[Paper Link]](https://ieeexplore.ieee.org/abstract/document/9340777) [[Project Link]](https://github.com/skumra/robotic-grasping) [2020]
+- - [x] Touch begins where vision ends: Generalizable policies for contact-rich manipulation [[Paper Link]](https://arxiv.org/abs/2506.13762) [[Project Link]](https://github.com/Exiam6/ViTaL) [2025]
 <!-- - - [x]  [[Paper Link]]()  [[Project Link]]()  [2024]
 - - [x] [[Paper Link]]() [[Project Link]]() [2024]
 - - [x] [[Paper Link]]() [[Project Link]]() [2024] -->
@@ -126,7 +134,11 @@ Cheng Yin, Chenyu Yang, Zhiwen Hu, Yunxiang Mi, Weichen Lin.
 - - [x] OpenVLA: An Open-Source Vision-Language-Action Model [[Paper Link]](https://arxiv.org/abs/2406.09246)  [[Project Link]](https://openvla.github.io)  [2024]
 - - [x] π0: A Vision-Language-Action Flow Model for General Robot Control [[Paper Link]](https://arxiv.org/abs/2410.24164)  [[Project Link]](https://github.com/Physical-Intelligence/openpi)  [2024]
 - - [x] Embodied-Reasoner: Synergizing Visual Search, Reasoning, and Action for Embodied Interactive Tasks[[Paper Link]](https://arxiv.org/abs/2503.21696)  [[Project Link]](https://github.com/zwq2018/embodied_reasoner)  [2025]
-
+- - [ ] DoorBot: Closed-Loop Task Planning and Manipulation for Door Opening in the Wild with Haptic Feedback [[Paper Link]](https://arxiv.org/abs/2504.09358) [2025]
+- - [x] IMPACT: Intelligent Motion Planning with Acceptable Contact Trajectories via Vision-Language Models [[Paper Link]](https://arxiv.org/abs/2503.10110)  [[Project Link]](https://impact-planning.github.io) [2025]
+- - [ ] Collision-inclusive Manipulation Planning for Occluded Object Grasping via Compliant Robot Motions [[Paper Link]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11091413) [2025]
+- - [ ] Harnessing the Synergy between Pushing, Grasping, and Throwing to Enhance Object Manipulation in Cluttered Scenarios [[Paper Link]](https://ieeexplore.ieee.org/abstract/document/10610548) [2024]
+- - [x] GraspGPT: Leveraging Semantic Knowledge from a Large Language Model for Task-Oriented Grasping [[Paper Link]](https://ieeexplore.ieee.org/abstract/document/10265134)  [[Project Link]](https://github.com/mkt1412/GraspGPT_public) [2023]
 <!-- - - [x]  [[Paper Link]]()  [[Project Link]]()  [2024]
 - - [x]  [[Paper Link]]()  [[Project Link]]()  [2024]
 - - [x]  [[Paper Link]]()  [[Project Link]]()  [2024] -->
@@ -173,6 +185,8 @@ Cheng Yin, Chenyu Yang, Zhiwen Hu, Yunxiang Mi, Weichen Lin.
 - - [x] GR-2: A Generative Video-Language-Action Model with Web-Scale Knowledge for Robot Manipulation [[Paper Link]](https://arxiv.org/abs/2410.06158) [[Project Link]](https://gr2-manipulation.github.io/) [2024]
 - - [x] Scaling Proprioceptive-Visual Learning with Heterogeneous Pre-trained Transformers [[Paper Link]](https://arxiv.org/abs/2409.20537) [[Project Link]](https://github.com/liruiw/hpt) [2024]
 - - [x] RDT-1B: a Diffusion Foundation Model for Bimanual Manipulation [[Paper Link]](https://arxiv.org/abs/2410.07864) [[Project Link]](https://rdt-robotics.github.io/rdt-robotics/) [2024]
+- - [ ] VTLA: Vision-Tactile-Language-Action Model with Preference Learning for Insertion Manipulation [[Paper Link]](https://arxiv.org/abs/2505.09577) [2025]
+- - [ ] Chain-of-Modality: Learning Manipulation Programs from Multimodal Human Videos with Vision-Language-Models [[Paper Link]](https://arxiv.org/abs/2504.13351) [2025]
 <!-- - - [x]  [[Paper Link]]()  [[Project Link]]()  [2024]
 - - [x] [[Paper Link]]() [[Project Link]]() [2024]
 - - [x] [[Paper Link]]() [[Project Link]]() [2024] -->
@@ -182,6 +196,8 @@ Cheng Yin, Chenyu Yang, Zhiwen Hu, Yunxiang Mi, Weichen Lin.
 - - [x] Aligning Diffusion Behaviors with Q-functions for Efficient Continuous Control [[Paper Link]](https://arxiv.org/abs/2407.09024) [[Project Link]](https://github.com/thu-ml/Efficient-Diffusion-Alignment) [2024]
 - - [ ] MENTOR: Mixture-of-Experts Network with Task-Oriented Perturbation for Visual Reinforcement Learning [[Paper Link]](https://arxiv.org/abs/2410.14972) [[Project Link]](https://suninghuang19.github.io/mentor_page/) [2024]
 - - [x] Precise and Dexterous Robotic Manipulation via Human-in-the-Loop Reinforcement Learning [[Paper Link]](https://arxiv.org/abs/2410.21845)  [[Project Link]](https://hil-serl.github.io/)  [2024]
+- - [x] Reactive Diffusion Policy: Slow-Fast Visual-Tactile Policy Learning for Contact-Rich Manipulation [[Paper Link]](https://arxiv.org/abs/2503.02881) [[Project Link]](https://github.com/xiaoxiaoxh/reactive_diffusion_policy) [2025]
+- - [ ] Adaptive Wiping: Adaptive contact-rich manipulation through few-shot imitation learning with Force-Torque feedback and pre-trained object representations [[Paper Link]](https://ieeexplore.ieee.org/abstract/document/10752344) [2024]
 
 <!-- - - [x]  [[Paper Link]]()  [[Project Link]]()  [2024]
 - - [x]  [[Paper Link]]()  [[Project Link]]()  [2024]
