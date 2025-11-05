@@ -204,6 +204,21 @@ Cheng Yin, Chenyu Yang, Zhiwen Hu, Yunxiang Mi, Weichen Lin, Yimeng Wang.
 - - [x]  [[Paper Link]]()  [[Project Link]]()  [2024]
 - - [x]  [[Paper Link]]()  [[Project Link]]()  [2024] -->
 
+# 🔧 **Robotic Code as Policy**
+- - [x] CodeDiffuser: Attention-Enhanced Diffusion Policy  via VLM-Generated Code for Instruction Ambiguity [[Paper Link]](https://robopil.github.io/code-diffuser/media/pdf/main.pdf) [[Project Link]](https://robopil.github.io/code-diffuser/) [2025]
+
+- - [x] Embodied large language models enable robots to complete complex tasks in unpredictable environments [[Paper Link]](https://www.nature.com/articles/s42256-025-01005-x) [[Project Link]](https://github.com/ruaridhmon/ELLMER) [2025]
+
+- - [ ] Maestro: Orchestrating Robotics Modules with Vision-Language Models for Zero-Shot Generalist Robots [[Paper Link]](https://maestro-robot.github.io/static/Maestro.pdf) [2025]
+
+- - [x] Code as Policies: Language Model Programs for Embodied Control [[Paper Link]](https://arxiv.org/pdf/2209.07753) [[Project Link]](https://code-as-policies.github.io) [2023]
+
+- - [x] Manipulate-Anything: Automating Real-World Robots using Vision-Language Models [[Paper Link]](https://arxiv.org/pdf/2406.18915) [[Project Link]](https://robot-ma.github.io) [2024]
+
+
+# 📄 **Robotic In Context learning**
+- - [x] In-Context Learning Enables Robot Action Prediction in LLMs [[Paper Link]](https://arxiv.org/pdf/2410.12782) [[Project Link]](https://davidyyd.github.io/roboprompt/) [2025]
+
 # 🏁 **Interactive**
 
 - - [x] Learning to Learn Faster from Human Feedback with Language Model Predictive Control [[Paper Link]](https://arxiv.org/abs/2402.11450) [[Project Link]](https://robot-teaching.github.io) [2024]
