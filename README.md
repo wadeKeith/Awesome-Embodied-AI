@@ -24,6 +24,7 @@ Cheng Yin, Chenyu Yang, Zhiwen Hu, Yunxiang Mi, Weichen Lin, Yimeng Wang.
 - [🏆 **VLA Model**](#-vla-model)
 - [👑 **E-AI-RL**](#-e-ai-rl)
 - [🏁 **Interactive**](#-interactive)
+- [🛡️ **Safety**](#️-safety)
 - [💻 **Simulator**](#-simulator)
 - [📊 **Dataset**](#-dataset)
 - [🔧 **Toolkit**](#-toolkit)
@@ -276,6 +277,151 @@ Cheng Yin, Chenyu Yang, Zhiwen Hu, Yunxiang Mi, Weichen Lin, Yimeng Wang.
 - - [x] [[Paper Link]]() [[Project Link]]() [2024]
 - - [x] [[Paper Link]]() [[Project Link]]() [2024]
 - - [x] [[Paper Link]]() [[Project Link]]() [2024] -->
+
+# 🛡️ **Safety**
+
+As embodied AI systems are deployed in safety-critical environments (autonomous driving, healthcare, household robotics), ensuring their safety becomes technically challenging and socially indispensable. This section highlights representative works on attacks and defenses across five safety layers. We intentionally select ~80 representative papers rather than the full 400+ to avoid overwhelming this repo -- for the **complete collection**, see [Awesome-Embodied-AI-Safety](https://github.com/x-zheng16/Awesome-Embodied-AI-Safety).
+
+- - [x] Safety in Embodied AI: A Survey of Risks, Attacks, and Defenses [[Paper Link]](https://github.com/x-zheng16/Awesome-Embodied-AI-Safety/blob/main/paper.pdf) [[Project Link]](https://github.com/x-zheng16/Awesome-Embodied-AI-Safety) [2026]
+- - [x] Safety at Scale: A Comprehensive Survey of Large Model Safety [[Paper Link]](https://arxiv.org/abs/2502.05206) [[Project Link]](https://github.com/xingjunm/Awesome-Large-Model-Safety) [2025]
+
+## Perception Safety
+
+**Visual Perception** — adversarial attacks and backdoors on visual recognition, detection, and tracking:
+
+- - [x] Robust physical-world attacks on deep learning visual classification [[Paper Link]](https://arxiv.org/abs/1707.08945) [[Project Link]]() [2018]
+- - [x] Phantom of the ADAS: Securing advanced driver-assistance systems from split-second phantom attacks [[Paper Link]](https://arxiv.org/abs/1907.00374) [[Project Link]]() [2020]
+- - [x] BadEncoder: Backdoor Attacks to Pre-trained Encoders in Self-Supervised Learning [[Paper Link]](https://arxiv.org/abs/2108.00352) [[Project Link]]() [2022]
+- - [x] Understanding Zero-Shot Adversarial Robustness for Large-Scale Models [[Paper Link]](https://arxiv.org/abs/2212.07016) [[Project Link]]() [2023]
+- - [x] AnyAttack: Towards Large-scale Self-supervised Adversarial Attacks on Vision-language Models [[Paper Link]](https://arxiv.org/abs/2408.09750) [[Project Link]]() [2025]
+
+**Auditory Perception** — voice command injection, audio adversarial examples, and defenses:
+
+- - [x] Hidden voice commands [[Paper Link]](https://arxiv.org/abs/1708.09537) [[Project Link]]() [2016]
+- - [x] Devil's Whisper: A General Approach for Physical Adversarial Attacks against Commercial Black-box Speech Recognition Devices [[Paper Link]](https://arxiv.org/abs/2002.09765) [[Project Link]]() [2020]
+- - [x] SpecPatch: Human-in-the-loop adversarial audio spectrogram patch attack on speech recognition [[Paper Link]](https://arxiv.org/abs/2211.08145) [[Project Link]]() [2022]
+- - [x] TrojanModel: A practical trojan attack against automatic speech recognition systems [[Paper Link]](https://ieeexplore.ieee.org/document/10179331) [[Project Link]]() [2023]
+- - [x] Antifake: Using adversarial audio to prevent unauthorized speech synthesis [[Paper Link]](https://arxiv.org/abs/2304.01507) [[Project Link]]() [2023]
+
+**Spatial Perception** — LiDAR spoofing, point cloud attacks, and 3D perception robustness:
+
+- - [x] Physically realizable adversarial examples for lidar object detection [[Paper Link]](https://arxiv.org/abs/2004.00543) [[Project Link]]() [2020]
+- - [x] Invisible for both Camera and LiDAR [[Paper Link]](https://arxiv.org/abs/2106.09249) [[Project Link]]() [2021]
+- - [x] Exorcising "Wraith": Protecting LiDAR-based Object Detector in Automated Driving System from Appearing Attacks [[Paper Link]](https://arxiv.org/abs/2303.12912) [[Project Link]]() [2023]
+- - [x] Adversary is on the Road: Attacks on Visual SLAM with Robust Perturbations on Point Clouds [[Paper Link]](https://www.usenix.org/conference/usenixsecurity24/presentation/chen-baodong) [[Project Link]]() [2024]
+- - [x] Towards Real-Time Defense against Object-Based LiDAR Attacks in Autonomous Driving [[Paper Link]](https://dl.acm.org/doi/10.1145/3666025.3699345) [[Project Link]]() [2025]
+
+**Motion Perception** — IMU/GPS/radar sensor spoofing and drone attacks:
+
+- - [x] Rocking drones with intentional sound noise on gyroscopic sensors [[Paper Link]](https://www.usenix.org/conference/usenixsecurity15/technical-sessions/presentation/son) [[Project Link]]() [2015]
+- - [x] WALNUT: Waging doubt on the integrity of MEMS accelerometers with acoustic injection attacks [[Paper Link]](https://ieeexplore.ieee.org/document/7961948) [[Project Link]]() [2017]
+- - [x] Drift with Devil: Security of Multi-Sensor Fusion based Localization in Autonomous Driving under GPS Spoofing [[Paper Link]](https://arxiv.org/abs/2006.05543) [[Project Link]]() [2020]
+- - [x] mmSpoof: Resilient spoofing of automotive millimeter-wave radars using reflect array [[Paper Link]](https://ieeexplore.ieee.org/abstract/document/10179371) [[Project Link]]() [2023]
+- - [x] Paralyzing Drones via EMI Signal Injection on Sensory Communication Channels [[Paper Link]](https://arxiv.org/abs/2302.08997) [[Project Link]]() [2023]
+
+**Cross-Modal Perception** — attacks exploiting multi-sensor fusion inconsistencies:
+
+- - [x] Security Analysis of Camera-LiDAR Fusion Against Black-Box Attacks on Autonomous Vehicles [[Paper Link]](https://arxiv.org/abs/2212.04064) [[Project Link]]() [2022]
+- - [x] Exploring Adversarial Robustness of LiDAR-Camera Fusion Model in Autonomous Driving [[Paper Link]](https://arxiv.org/abs/2301.07029) [[Project Link]]() [2023]
+- - [x] Malicious Attacks against Multi-Sensor Fusion in Autonomous Driving [[Paper Link]](https://dl.acm.org/doi/abs/10.1145/3636534.3649372) [[Project Link]]() [2024]
+
+## Cognition Safety
+
+**Instruction Understanding** — attacks on embodied instruction following and VQA:
+
+- - [x] SQA3D: Situated Question Answering in 3D Scenes [[Paper Link]](https://arxiv.org/abs/2210.07474) [[Project Link]]() [2023]
+- - [x] Can we trust embodied agents? Exploring backdoor attacks against embodied LLM-based decision-making systems [[Paper Link]](https://arxiv.org/abs/2405.20774) [[Project Link]]() [2024]
+- - [x] AGENTSAFE: Benchmarking the Safety of Embodied Agents on Hazardous Instructions [[Paper Link]](https://arxiv.org/abs/2506.14697) [[Project Link]]() [2025]
+- - [x] RoboSafe: Safeguarding Embodied Agents via Executable Safety Logic [[Paper Link]](https://arxiv.org/abs/2512.21220) [[Project Link]]() [2025]
+
+**World Model** — hallucination, robustness, and safety in learned world models:
+
+- - [x] SafeDreamer: Safe Reinforcement Learning with World Models [[Paper Link]](https://arxiv.org/abs/2307.07176) [[Project Link]]() [2024]
+- - [x] Multi-Object Hallucination in Vision Language Models [[Paper Link]](https://arxiv.org/abs/2407.06192) [[Project Link]]() [2024]
+- - [x] Learning Latent Dynamic Robust Representations for World Models [[Paper Link]](https://arxiv.org/abs/2405.14953) [[Project Link]]() [2024]
+
+**Reasoning** — jailbreaking chain-of-thought and embodied reasoning:
+
+- - [x] Do As I Can, Not As I Say: Grounding Language in Robotic Affordances [[Paper Link]](https://arxiv.org/abs/2204.01691) [[Project Link]]() [2022]
+- - [x] Inner Monologue: Embodied Reasoning through Planning with Language Models [[Paper Link]](https://arxiv.org/abs/2207.05608) [[Project Link]]() [2022]
+- - [x] Agent Smith: A Single Image Can Jailbreak One Million Multimodal LLM Agents Exponentially Fast [[Paper Link]](https://arxiv.org/abs/2402.08567) [[Project Link]]() [2024]
+- - [x] H-CoT: Hijacking the Chain-of-Thought Safety Reasoning Mechanism to Jailbreak Large Reasoning Models [[Paper Link]](https://arxiv.org/abs/2502.12893) [[Project Link]]() [2025]
+
+## Planning Safety
+
+**Task Planning** — jailbreaking LLM planners and backdooring robotic task plans:
+
+- - [x] Adversarial Attacks on Optimization based Planners [[Paper Link]](https://arxiv.org/abs/2011.00095) [[Project Link]]() [2021]
+- - [x] Jailbreaking LLM-controlled robots [[Paper Link]](https://arxiv.org/abs/2410.13691) [[Project Link]]() [2024]
+- - [x] BadRobot: Jailbreaking embodied LLMs in the physical world [[Paper Link]](https://arxiv.org/abs/2407.20242) [[Project Link]]() [2024]
+- - [x] HASARD: A Benchmark for Vision-Based Safe Reinforcement Learning in Embodied Agents [[Paper Link]](https://arxiv.org/abs/2503.08241) [[Project Link]]() [2025]
+- - [x] Robo-Troj: Backdoor Attacks Against Robotic Manipulation in the Physical World [[Paper Link]](https://arxiv.org/abs/2504.17070) [[Project Link]]() [2025]
+
+**Trajectory Planning** — adversarial scenarios for autonomous driving trajectory prediction:
+
+- - [x] SafeBench: A Benchmarking Platform for Safety Evaluation of Autonomous Vehicles [[Paper Link]](https://arxiv.org/abs/2206.09682) [[Project Link]]() [2022]
+- - [x] On adversarial robustness of trajectory prediction for autonomous vehicles [[Paper Link]](https://arxiv.org/abs/2201.05057) [[Project Link]]() [2022]
+- - [x] AdvDo: Realistic adversarial attacks for trajectory prediction [[Paper Link]](https://arxiv.org/abs/2209.08744) [[Project Link]]() [2022]
+- - [x] Robust inverse constrained reinforcement learning under model misspecification [[Paper Link]](https://arxiv.org/abs/2407.07648) [[Project Link]]() [2024]
+- - [x] AdvDiffuser: Generating adversarial safety-critical driving scenarios via guided diffusion [[Paper Link]](https://arxiv.org/abs/2410.08453) [[Project Link]]() [2024]
+
+**Multi-Agent Planning** — Byzantine resilience and adversarial communication in swarms:
+
+- - [x] Blockchain Technology Secures Robot Swarms: A Comparison of Consensus Protocols and Their Resilience to Byzantine Robots [[Paper Link]](https://www.frontiersin.org/journals/robotics-and-ai/articles/10.3389/frobt.2020.00054/full) [[Project Link]]() [2020]
+- - [x] The Emergence of Adversarial Communication in Multi-Agent Reinforcement Learning [[Paper Link]](https://arxiv.org/abs/2008.02616) [[Project Link]]() [2021]
+- - [x] Robot Swarms Neutralize Harmful Behaviors Through Cross-Referencing [[Paper Link]](https://www.science.org/doi/10.1126/scirobotics.abm4636) [[Project Link]]() [2023]
+- - [x] Adversarial Machine Learning Attacks and Defences in Multi-Agent Reinforcement Learning [[Paper Link]](https://arxiv.org/abs/2301.04299) [[Project Link]]() [2024]
+
+## Action and Interaction Safety
+
+**Robot Control** — adversarial RL, backdoors in policies, and safe VLA models:
+
+- - [x] Robust Adversarial Reinforcement Learning [[Paper Link]](https://arxiv.org/abs/1703.02702) [[Project Link]]() [2017]
+- - [x] Adversarial Policies: Attacking Deep Reinforcement Learning [[Paper Link]](https://arxiv.org/abs/1905.10615) [[Project Link]]() [2020]
+- - [x] Who Is the Strongest Enemy? Towards Optimal and Efficient Evasion Attacks in Deep RL [[Paper Link]](https://arxiv.org/abs/2106.05087) [[Project Link]]() [2022]
+- - [x] Diffusion Policy Attacker: Crafting Adversarial Attacks for Diffusion-based Policies [[Paper Link]](https://arxiv.org/abs/2405.19424) [[Project Link]]() [2024]
+- - [x] Embodied laser attack: leveraging scene priors to achieve agent-based robust non-contact attacks [[Paper Link]](https://arxiv.org/abs/2312.09554) [[Project Link]]() [2024]
+- - [x] SafeVLA: Towards Safety Alignment of Vision-Language-Action Model via Constrained Learning [[Paper Link]](https://arxiv.org/abs/2412.03847) [[Project Link]]() [2025]
+- - [x] AttackVLA: Benchmarking Adversarial and Backdoor Attacks on Vision-Language-Action Models [[Paper Link]](https://arxiv.org/abs/2511.12149) [[Project Link]]() [2025]
+
+**Human-Agent Interaction** — perceived safety and psychological risks:
+
+- - [x] Perceived Safety in Physical Human Robot Interaction -- A Survey [[Paper Link]](https://arxiv.org/abs/2105.14499) [[Project Link]]() [2021]
+- - [x] A Taxonomy of Factors Influencing Perceived Safety in Human-Robot Interaction [[Paper Link]](https://link.springer.com/article/10.1007/s12369-023-01027-8) [[Project Link]]() [2023]
+- - [x] PsySafe: A Comprehensive Framework for Psychological-based Attack, Defense, and Evaluation of Multi-agent System Safety [[Paper Link]](https://arxiv.org/abs/2401.11880) [[Project Link]]() [2024]
+
+**Multi-Agent Collaboration** — inter-agent infection and collusion:
+
+- - [x] When Autonomy Goes Rogue: Preparing for Risks of Multi-Agent Collusion in Social Systems [[Paper Link]](https://arxiv.org/abs/2507.14660) [[Project Link]]() [2025]
+
+## Agentic System Safety
+
+**Tool Use** — prompt injection and skill poisoning in tool-using agents:
+
+- - [x] RoboCodeX: Multimodal Code Generation for Robotic Behavior Synthesis [[Paper Link]](https://arxiv.org/abs/2402.16117) [[Project Link]]() [2024]
+- - [x] STAC: Stealthy and Targeted Attack on Code Agents [[Paper Link]](https://arxiv.org/abs/2509.25624) [[Project Link]]() [2025]
+- - [x] Prompt Injection Attack to Tool Selection in LLM Agents [[Paper Link]](https://arxiv.org/abs/2504.19793) [[Project Link]]() [2025]
+
+**Memory** — memory poisoning, privacy leakage, and prompt extraction:
+
+- - [x] AgentPoison: Red-teaming LLM agents via poisoning memory or knowledge bases [[Paper Link]](https://arxiv.org/abs/2407.12784) [[Project Link]]() [2024]
+- - [x] Ghost of the Past: Identifying and Resolving Privacy Leakage of LLM's Memory Through Proactive User Interaction [[Paper Link]](https://arxiv.org/abs/2410.14931) [[Project Link]]() [2025]
+- - [x] Topology Matters: Measuring Memory Leakage in Multi-Agent LLMs [[Paper Link]](https://arxiv.org/abs/2512.04668) [[Project Link]]() [2025]
+- - [x] Just Ask: Curious Code Agents Reveal System Prompts in Frontier LLMs [[Paper Link]](https://arxiv.org/abs/2601.21233) [[Project Link]]() [2026]
+
+**Self-Evolving** — risks from self-improving and hallucinating agents:
+
+- - [x] Agent-SafetyBench: Evaluating the Safety of LLM Agents [[Paper Link]](https://arxiv.org/abs/2412.14470) [[Project Link]]() [2024]
+- - [x] Embodied Red Teaming for Auditing Robotic Foundation Models [[Paper Link]](https://arxiv.org/abs/2411.18676) [[Project Link]]() [2024]
+- - [x] Your Agent May Misevolve: Emergent Risks in Self-evolving LLM Agents [[Paper Link]](https://arxiv.org/abs/2509.26354) [[Project Link]]() [2025]
+
+**Cascading Risks** — cross-layer failures, supply chain attacks, and system-level vulnerabilities:
+
+- - [x] Spatiotemporal Attacks for Embodied Agents [[Paper Link]](https://arxiv.org/abs/2005.09161) [[Project Link]]() [2020]
+- - [x] Secure Robotics: Nexus of Safety, Trust, and Cybersecurity [[Paper Link]](https://dl.acm.org/doi/10.1145/3723050) [[Project Link]]() [2024]
+- - [x] SafeAgentBench: A Benchmark for Safe Task Planning of Embodied LLM Agents [[Paper Link]](https://arxiv.org/abs/2412.13178) [[Project Link]]() [2024]
+- - [x] Automated Discovery of Semantic Attacks in Multi-Robot Navigation [[Paper Link]](https://www.usenix.org/conference/usenixsecurity25/presentation/yeke) [[Project Link]]() [2025]
+- - [x] SkillJect: Automating Stealthy Skill-Based Prompt Injection for Coding Agents [[Paper Link]](https://arxiv.org/abs/2602.14211) [[Project Link]]() [2026]
 
 # 💻 **Simulator**
 
