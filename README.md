@@ -24,6 +24,7 @@ Cheng Yin, Chenyu Yang, Zhiwen Hu, Yunxiang Mi, Weichen Lin, Yimeng Wang.
 - [🏆 **VLA Model**](#-vla-model)
 - [👑 **E-AI-RL**](#-e-ai-rl)
 - [🏁 **Interactive**](#-interactive)
+- [🛡️ **Safety**](#️-safety)
 - [💻 **Simulator**](#-simulator)
 - [📊 **Dataset**](#-dataset)
 - [🔧 **Toolkit**](#-toolkit)
@@ -276,6 +277,45 @@ Cheng Yin, Chenyu Yang, Zhiwen Hu, Yunxiang Mi, Weichen Lin, Yimeng Wang.
 - - [x] [[Paper Link]]() [[Project Link]]() [2024]
 - - [x] [[Paper Link]]() [[Project Link]]() [2024]
 - - [x] [[Paper Link]]() [[Project Link]]() [2024] -->
+
+# 🛡️ **Safety**
+
+As embodied AI systems are deployed in safety-critical environments (autonomous driving, healthcare, household robotics), ensuring their safety becomes technically challenging and socially indispensable. This section highlights representative works on attacks and defenses across five safety layers. For the **full list of 400+ papers**, see [Awesome-Embodied-AI-Safety](https://github.com/x-zheng16/Awesome-Embodied-AI-Safety).
+
+- Safety in Embodied AI: A Survey of Risks, Attacks, and Defenses [[Paper Link]](https://github.com/x-zheng16/Awesome-Embodied-AI-Safety/blob/main/paper.pdf) [[Project Link]](https://github.com/x-zheng16/Awesome-Embodied-AI-Safety) [2026]
+- Safety at Scale: A Comprehensive Survey of Large Model Safety [[Paper Link]](https://arxiv.org/abs/2502.05206) [[Project Link]](https://github.com/xingjunm/Awesome-Large-Model-Safety) [2025]
+
+**Perception Safety** — adversarial attacks and defenses on visual, auditory, and spatial perception:
+
+- Robust physical-world attacks on deep learning visual classification [[Paper Link]](https://arxiv.org/abs/1707.08945) [2018]
+- Adversarial t-shirt! evading person detectors in a physical world [[Paper Link]](https://arxiv.org/abs/2003.01830) [2020]
+- BadEncoder: Backdoor Attacks to Pre-trained Encoders in Self-Supervised Learning [[Paper Link]](https://arxiv.org/abs/2108.00352) [2022]
+- Devil's Whisper: A General Approach for Physical Adversarial Attacks against Commercial Black-box Speech Recognition Devices [[Paper Link]](https://arxiv.org/abs/2002.09042) [2020]
+- LiDAttack: Robust Black-Box Attack on LiDAR-based Object Detection [[Paper Link]](https://arxiv.org/abs/2411.07128) [2025]
+
+**Cognition Safety** — jailbreaking and manipulating language-conditioned understanding:
+
+- Visual adversarial examples jailbreak aligned large language models [[Paper Link]](https://arxiv.org/abs/2306.13213) [2023]
+- AnyAttack: Towards Large-scale Self-supervised Adversarial Attacks on Vision-language Models [[Paper Link]](https://arxiv.org/abs/2410.05346) [2025]
+- Jailbreaking GPT-4V via Self-Adversarial Attacks with System Prompts [[Paper Link]](https://arxiv.org/abs/2311.09127) [2023]
+
+**Planning Safety** — attacks on task planning and trajectory generation:
+
+- On the adversarial robustness of multi-modal foundation models [[Paper Link]](https://arxiv.org/abs/2308.10741) [2023]
+- Deceptive semantic shortcuts on reasoning chains: How far can models go without hallucination? [[Paper Link]](https://arxiv.org/abs/2311.09702) [2024]
+- Exploring backdoor vulnerabilities of chat models [[Paper Link]](https://arxiv.org/abs/2404.02406) [2024]
+
+**Action and Interaction Safety** — safe robot control and human-agent interaction:
+
+- Safe reinforcement learning using robust MPC [[Paper Link]](https://arxiv.org/abs/1906.04005) [2020]
+- Embodied laser attack: leveraging scene priors to achieve agent-based robust non-contact attacks [[Paper Link]](https://arxiv.org/abs/2312.09554) [2024]
+- Learning safe, generalizable perception-based hybrid control with certificates [[Paper Link]](https://arxiv.org/abs/2010.14523) [2020]
+
+**Agentic System Safety** — tool use, memory poisoning, and cascading risks in autonomous agents:
+
+- InjectAgent: Indirect prompt injection attacks on tool-using agents [[Paper Link]](https://arxiv.org/abs/2403.02691) [2024]
+- Not what you've signed up for: Compromising real-world LLM-integrated applications with indirect prompt injection [[Paper Link]](https://arxiv.org/abs/2302.12173) [2023]
+- AgentPoison: Red-teaming LLM agents via poisoning memory or knowledge bases [[Paper Link]](https://arxiv.org/abs/2407.12784) [2024]
 
 # 💻 **Simulator**
 
