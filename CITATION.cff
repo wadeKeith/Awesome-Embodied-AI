@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it using the metadata below."
+title: "Awesome-Embodied-AI"
+type: software
+authors:
+  - family-names: Yin
+    given-names: Cheng
+  - family-names: Yang
+    given-names: Chenyu
+  - family-names: Hu
+    given-names: Zhiwen
+  - family-names: Mi
+    given-names: Yunxiang
+  - family-names: Lin
+    given-names: Weichen
+  - family-names: Wang
+    given-names: Yimeng
+repository-code: "https://github.com/wadeKeith/Awesome-Embodied-AI"
+url: "https://github.com/wadeKeith/Awesome-Embodied-AI"
+license: MIT
+abstract: "A curated repository of surveys, papers, datasets, simulators, benchmarks, toolkits, and project links for embodied AI."
+keywords:
+  - embodied-ai
+  - robotics
+  - robot-learning
+  - vision-language-action
+  - humanoids
+  - safety

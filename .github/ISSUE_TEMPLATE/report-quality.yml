@@ -1,0 +1,34 @@
+name: Report link or quality issue
+description: Report a broken link, duplicate entry, wrong year, or incorrect category.
+title: "[Fix] "
+labels:
+  - maintenance
+body:
+  - type: dropdown
+    id: issue_type
+    attributes:
+      label: Problem type
+      options:
+        - Broken link
+        - Duplicate entry
+        - Wrong year
+        - Wrong category
+        - Formatting issue
+        - Other
+    validations:
+      required: true
+  - type: input
+    id: location
+    attributes:
+      label: Where is the problem?
+      description: Paste the section name or the full line from the README.
+      placeholder: Brain Models / RACER ...
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: Details
+      placeholder: Explain the problem and include the correct link or metadata if you have it.
+    validations:
+      required: true
