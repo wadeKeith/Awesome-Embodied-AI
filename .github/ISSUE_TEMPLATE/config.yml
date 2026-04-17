@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Contribution guide
+    url: https://github.com/wadeKeith/Awesome-Embodied-AI/blob/main/CONTRIBUTING.md
+    about: Read this before opening a content or link update issue.

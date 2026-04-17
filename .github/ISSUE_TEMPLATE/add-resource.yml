@@ -1,0 +1,60 @@
+name: Add resource
+description: Suggest a paper, dataset, simulator, benchmark, toolkit, or project page for the list.
+title: "[Add] "
+labels:
+  - addition
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for suggesting a new resource. Please keep the request concrete so it can be added quickly.
+  - type: dropdown
+    id: section
+    attributes:
+      label: Target section
+      description: Where should this resource live?
+      options:
+        - Surveys
+        - Perception
+        - Brain Models
+        - VLA Models
+        - Embodied AI and RL
+        - Robotic Code as Policy
+        - Robotic In-Context Learning
+        - Interaction and Humanoids
+        - Safety
+        - Simulators
+        - Datasets
+        - Toolkits
+    validations:
+      required: true
+  - type: input
+    id: title
+    attributes:
+      label: Resource title
+      placeholder: Exact paper or project title
+    validations:
+      required: true
+  - type: input
+    id: paper
+    attributes:
+      label: Paper link
+      placeholder: https://arxiv.org/abs/...
+  - type: input
+    id: project
+    attributes:
+      label: Project or code link
+      placeholder: https://github.com/... or official project page
+  - type: input
+    id: year
+    attributes:
+      label: Year
+      placeholder: "2025"
+    validations:
+      required: true
+  - type: textarea
+    id: context
+    attributes:
+      label: Why it should be included
+      description: Short context helps keep the taxonomy consistent.
+      placeholder: This is a representative VLA benchmark because...

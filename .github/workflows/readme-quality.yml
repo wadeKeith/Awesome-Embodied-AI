@@ -1,0 +1,22 @@
+name: README Quality
+
+on:
+  pull_request:
+  push:
+    branches:
+      - main
+
+jobs:
+  readme-quality:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Validate README
+        run: python scripts/check_readme.py
