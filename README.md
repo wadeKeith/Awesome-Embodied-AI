@@ -12,7 +12,7 @@ A curated, actively maintained list of surveys, papers, datasets, simulators, be
 
 ## Why this repo
 
-- `390+` curated resources across `10` major research and tooling tracks.
+- `400+` curated resources across `10` major research and tooling tracks.
 - Fast entry points for newcomers and practical links for researchers and builders.
 - Community-maintained updates through pull requests and issue reports.
 
@@ -31,7 +31,7 @@ Cheng Yin, Chenyu Yang, Zhiwen Hu, Yunxiang Mi, Weichen Lin, Yimeng Wang.
 
 ## Recent updates
 
-- `2026-06-12`: refreshed VLA/world-model manipulation, humanoid whole-body control, embodied safety, simulators, and datasets.
+- `2026-06-12`: refreshed VLA/world-model manipulation, tactile VLA, embodied planners, humanoid self-modeling, embodied safety, simulators, and datasets.
 - `2026-03-30`: added a dedicated Safety section with representative papers across perception, cognition, planning, interaction, and agentic systems.
 - `2025-11-05`: expanded robotic code-as-policy and robotic in-context learning coverage.
 - `2025-09-07`: refreshed surveys, perception, brain models, VLA models, and embodied RL entries.
@@ -69,6 +69,7 @@ Cheng Yin, Chenyu Yang, Zhiwen Hu, Yunxiang Mi, Weichen Lin, Yimeng Wang.
 - A Survey on Vision-Language-Action Models for Embodied AI [[Paper Link]](https://arxiv.org/abs/2405.14093) [2024]
 - From Human Videos to Robot Manipulation: A Survey on Scalable Vision-Language-Action Learning with Human-Centric Data [[Paper Link]](https://arxiv.org/abs/2606.00054) [[Project Link]](https://aaronfengzy.github.io/HumanCentricToVLA-Survey/) [2026]
 - World Models for Robotic Manipulation: A Survey [[Paper Link]](https://arxiv.org/abs/2606.00113) [2026]
+- A Tutorial on World Models and Physical AI [[Paper Link]](https://arxiv.org/abs/2606.12783) [2026]
 - Embodied Intelligence Toward Future Smart Manufacturing in the Era of AI Foundation Model [[Paper Link]](https://ieeexplore.ieee.org/document/10697107) [2024]
 - Towards Generalist Robot Learning from Internet Video: A Survey [[Paper Link]](https://arxiv.org/abs/2404.19664) [2024]
 - A Survey on Robotics with Foundation Models: toward Embodied AI [[Paper Link]](https://arxiv.org/abs/2402.02385) [2024]
@@ -105,6 +106,7 @@ Cheng Yin, Chenyu Yang, Zhiwen Hu, Yunxiang Mi, Weichen Lin, Yimeng Wang.
 - [x] GelFusion: Enhancing Robotic Manipulation under Visual Constraints via Visuotactile Fusion [[Paper Link]](https://arxiv.org/abs/2505.07455) [[Project Link]](https://github.com/GelFusion/GelFusion) [2025]
 - [ ] FTP-1: A Generalist Foundation Tactile Policy Across Tactile Sensors for Contact-Rich Manipulation [[Paper Link]](https://arxiv.org/abs/2606.13102) [2026]
 - [ ] WT-UMI: Tactile-based Whole-Body Manipulation via Force-Supervised Contact-Aware Planning [[Paper Link]](https://arxiv.org/abs/2606.13232) [2026]
+- [ ] Blind Dexterous Grasping via Real2Sim2Real Tactile Policy Learning [[Paper Link]](https://arxiv.org/abs/2606.11767) [[Project Link]](https://dex-blind-grasp.github.io/) [2026]
 - [x] Antipodal Robotic Grasping using Generative Residual Convolutional Neural Network [[Paper Link]](https://ieeexplore.ieee.org/abstract/document/9340777) [[Project Link]](https://github.com/skumra/robotic-grasping) [2020]
 - [x] Touch begins where vision ends: Generalizable policies for contact-rich manipulation [[Paper Link]](https://arxiv.org/abs/2506.13762) [[Project Link]](https://github.com/Exiam6/ViTaL) [2025]
 
@@ -125,6 +127,9 @@ Cheng Yin, Chenyu Yang, Zhiwen Hu, Yunxiang Mi, Weichen Lin, Yimeng Wang.
 - [ ] WEAVER, Better, Faster, Longer: An Effective World Model for Robotic Manipulation [[Paper Link]](https://arxiv.org/abs/2606.13672) [[Project Link]](https://arnavkj1995.github.io/WEAVER/) [2026]
 - [ ] NavWAM: A Navigation World Action Model for Goal-Conditioned Visual Navigation [[Paper Link]](https://arxiv.org/abs/2606.13494) [[Project Link]](https://dachii-azm.github.io/navwam/) [2026]
 - [ ] EA-WM: Event-Aware World Models with Task-Specification Grounding for Long-Horizon Manipulation [[Paper Link]](https://arxiv.org/abs/2606.13053) [2026]
+- [x] Scale Buys Interpolation, Structure Buys a Horizon: Certified Predictability for Equivariant World Models [[Paper Link]](https://arxiv.org/abs/2606.13092) [[Project Link]](https://github.com/TimothyWang418/se3-ejepa) [2026]
+- [ ] DIRECT: When and Where Should You Allocate Test-Time Compute in Embodied Planners? [[Paper Link]](https://arxiv.org/abs/2606.12402) [2026]
+- [ ] SERF: Spatiotemporal Environment and Robot Feature Map for Long-Horizon Mobile Manipulation [[Paper Link]](https://arxiv.org/abs/2606.12956) [[Project Link]](https://existentialrobotics.org/serf/) [2026]
 - [ ] Retrieval-Augmented Robots via Retrieve-Reason-Act [[Paper Link]](https://arxiv.org/abs/2603.02688) [2026]
 - [ ] Look Before You Leap: Unveiling the Power of GPT-4V in Robotic Vision-Language Planning [[Paper Link]](https://arxiv.org/abs/2311.17842) [[Project Link]](https://robot-vila.github.io) [2023]
 - [x] Mobile ALOHA: Learning Bimanual Mobile Manipulation with Low-Cost Whole-Body Teleoperation [[Paper Link]](https://arxiv.org/abs/2401.02117) [[Project Link]](https://mobile-aloha.github.io/) [2024]
@@ -170,9 +175,15 @@ Cheng Yin, Chenyu Yang, Zhiwen Hu, Yunxiang Mi, Weichen Lin, Yimeng Wang.
 - [ ] Qwen-VLA: Unifying Vision-Language-Action Modeling across Tasks, Environments, and Robot Embodiments [[Paper Link]](https://arxiv.org/abs/2605.30280) [[Project Link]](https://github.com/QwenLM/Qwen-VLA) [2026]
 - [ ] Improving Robotic Generalist Policies via Flow Reversal Steering [[Paper Link]](https://arxiv.org/abs/2606.13675) [2026]
 - [ ] GIVE: Grounding Human Gestures in Vision-Language-Action Models [[Paper Link]](https://arxiv.org/abs/2606.13435) [[Project Link]](https://luis-cloud-sg.github.io/GIVE-project/) [2026]
+- [ ] AIR-VLA+: Decoupling Movement and Manipulation via Cascaded Dual-Action Decoders with Asymmetric MoE for Aerial Robots [[Paper Link]](https://arxiv.org/abs/2606.12859) [2026]
 - [ ] GeoHAT: Geometry-Adaptive Hybrid Action Transformer for Mobile Manipulation [[Paper Link]](https://arxiv.org/abs/2606.13394) [2026]
 - [x] Psi0: An Open Foundation Model Towards Universal Humanoid Loco-Manipulation [[Paper Link]](https://arxiv.org/abs/2603.12263) [[Project Link]](https://github.com/physical-superintelligence-lab/Psi0) [2026]
 - [ ] LabVLA: Grounding Vision-Language-Action Models in Scientific Laboratories [[Paper Link]](https://arxiv.org/abs/2606.13578) [2026]
+- [ ] APT: Action Expert Pretraining Improves Instruction Generalization of Vision-Language-Action Policies [[Paper Link]](https://arxiv.org/abs/2606.12366) [[Project Link]](https://xukechun.github.io/papers/APT/) [2026]
+- [ ] Learning What to Say to Your VLA: Mostly Harmless Vision Language Action Model Steering [[Paper Link]](https://arxiv.org/abs/2606.12299) [2026]
+- [ ] Bridging the Morphology Gap: Adapting VLA Models to Dexterous Manipulation via Intent-Conditioned Fine-Tuning [[Paper Link]](https://arxiv.org/abs/2606.12109) [2026]
+- [ ] DAM-VLA: Decoupled Asynchronous Multimodal Vision Language Action model [[Paper Link]](https://arxiv.org/abs/2606.12105) [[Project Link]](https://intuitive-robots.github.io/DAM-VLA/) [2026]
+- [ ] TacCoRL: Integrating Tactile Feedback into VLA via Simulation [[Paper Link]](https://arxiv.org/abs/2606.11743) [[Project Link]](https://tac-corl.github.io/) [2026]
 - [ ] World Pilot: Steering Vision-Language-Action Models with World-Action Priors [[Paper Link]](https://arxiv.org/abs/2606.12403) [2026]
 - [ ] CHORUS: Decentralized Multi-Embodiment Collaboration with One VLA Policy [[Paper Link]](https://arxiv.org/abs/2606.12352) [2026]
 - [ ] ProgressVLA: Progress-Guided Diffusion Policy for Vision-Language Robotic Manipulation [[Paper Link]](https://arxiv.org/abs/2603.27670) [2026]
@@ -237,6 +248,8 @@ Cheng Yin, Chenyu Yang, Zhiwen Hu, Yunxiang Mi, Weichen Lin, Yimeng Wang.
 - [ ] Adaptive Wiping: Adaptive contact-rich manipulation through few-shot imitation learning with Force-Torque feedback and pre-trained object representations [[Paper Link]](https://ieeexplore.ieee.org/abstract/document/10752344) [2024]
 
 ## Robotic Code as Policy
+- [ ] Functional Cache Grafting: Robust and Rapid Code-Policy Synthesis for Embodied Agents [[Paper Link]](https://arxiv.org/abs/2606.13097) [2026]
+
 - [x] CodeDiffuser: Attention-Enhanced Diffusion Policy  via VLM-Generated Code for Instruction Ambiguity [[Paper Link]](https://robopil.github.io/code-diffuser/media/pdf/main.pdf) [[Project Link]](https://robopil.github.io/code-diffuser/) [2025]
 
 - [x] Embodied large language models enable robots to complete complex tasks in unpredictable environments [[Paper Link]](https://www.nature.com/articles/s42256-025-01005-x) [[Project Link]](https://github.com/ruaridhmon/ELLMER) [2025]
@@ -254,6 +267,7 @@ Cheng Yin, Chenyu Yang, Zhiwen Hu, Yunxiang Mi, Weichen Lin, Yimeng Wang.
 ## Interaction and Humanoids
 
 - [ ] GenHOI: Contact-Aware Humanoid-Object Interaction by Imitating Generated Videos without Task-Specific Training [[Paper Link]](https://arxiv.org/abs/2606.12995) [2026]
+- [ ] Proprioceptive-visual correspondence enables self-other distinction in humanoid robots [[Paper Link]](https://arxiv.org/abs/2606.13222) [[Project Link]](https://euron-zc.github.io/humanoid-self-model/) [2026]
 - [ ] Learning Whole-Body Humanoid Locomotion via Motion Generation and Motion Tracking [[Paper Link]](https://arxiv.org/abs/2604.17335) [[Project Link]](https://wholebodylocomotion.github.io/) [2026]
 - [ ] Scalable and General Whole-Body Control for Cross-Humanoid Locomotion [[Paper Link]](https://arxiv.org/abs/2602.05791) [[Project Link]](https://xhugwbc.github.io/) [2026]
 - [ ] Humanoid Manipulation Interface: Humanoid Whole-Body Manipulation from Robot-Free Demonstrations [[Paper Link]](https://arxiv.org/abs/2602.06643) [[Project Link]](https://humanoid-manipulation-interface.github.io/) [2026]
