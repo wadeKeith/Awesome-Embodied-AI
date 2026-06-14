@@ -12,7 +12,7 @@ A curated, actively maintained list of surveys, papers, datasets, simulators, be
 
 ## Why this repo
 
-- `420+` curated resources across `10` major research and tooling tracks.
+- `430+` curated resources across `10` major research and tooling tracks.
 - Fast entry points for newcomers and practical links for researchers and builders.
 - Community-maintained updates through pull requests and issue reports.
 
@@ -31,6 +31,7 @@ Cheng Yin, Chenyu Yang, Zhiwen Hu, Yunxiang Mi, Weichen Lin, Yimeng Wang.
 
 ## Recent updates
 
+- `2026-06-14`: added WAM representation/alignment, tactile foresight, humanoid loco-manipulation/navigation, VLA social safety, and embodied benchmark automation papers.
 - `2026-06-13`: added recent WAM/VLA memory, real-time execution, force-aware manipulation, humanoid recovery, robot-learning safety, and in-context execution papers.
 - `2026-06-12`: refreshed VLA/world-model manipulation, tactile VLA, embodied planners, humanoid self-modeling, embodied safety, simulators, and datasets.
 - `2026-03-30`: added a dedicated Safety section with representative papers across perception, cognition, planning, interaction, and agentic systems.
@@ -71,6 +72,7 @@ Cheng Yin, Chenyu Yang, Zhiwen Hu, Yunxiang Mi, Weichen Lin, Yimeng Wang.
 - From Human Videos to Robot Manipulation: A Survey on Scalable Vision-Language-Action Learning with Human-Centric Data [[Paper Link]](https://arxiv.org/abs/2606.00054) [[Project Link]](https://aaronfengzy.github.io/HumanCentricToVLA-Survey/) [2026]
 - World Models for Robotic Manipulation: A Survey [[Paper Link]](https://arxiv.org/abs/2606.00113) [2026]
 - A Tutorial on World Models and Physical AI [[Paper Link]](https://arxiv.org/abs/2606.12783) [2026]
+- Intelligent Automation for Embodied Benchmark Construction: Pipelines, Embodiments, Simulators, and Trends [[Paper Link]](https://arxiv.org/abs/2606.12207) [2026]
 - World Action Models: The Next Frontier in Embodied AI [[Paper Link]](https://arxiv.org/abs/2605.12090) [[Project Link]](https://openmoss.github.io/Awesome-WAM/) [2026]
 - Embodied Intelligence Toward Future Smart Manufacturing in the Era of AI Foundation Model [[Paper Link]](https://ieeexplore.ieee.org/document/10697107) [2024]
 - Towards Generalist Robot Learning from Internet Video: A Survey [[Paper Link]](https://arxiv.org/abs/2404.19664) [2024]
@@ -108,6 +110,7 @@ Cheng Yin, Chenyu Yang, Zhiwen Hu, Yunxiang Mi, Weichen Lin, Yimeng Wang.
 - [x] GelFusion: Enhancing Robotic Manipulation under Visual Constraints via Visuotactile Fusion [[Paper Link]](https://arxiv.org/abs/2505.07455) [[Project Link]](https://github.com/GelFusion/GelFusion) [2025]
 - [ ] FTP-1: A Generalist Foundation Tactile Policy Across Tactile Sensors for Contact-Rich Manipulation [[Paper Link]](https://arxiv.org/abs/2606.13102) [2026]
 - [ ] WT-UMI: Tactile-based Whole-Body Manipulation via Force-Supervised Contact-Aware Planning [[Paper Link]](https://arxiv.org/abs/2606.13232) [2026]
+- [ ] TacForeSight: Force-Guided Tactile World Model for Contact-Rich Manipulation [[Paper Link]](https://arxiv.org/abs/2606.11184) [[Project Link]](https://tacforesight.github.io/ProjectPage) [2026]
 - [ ] Blind Dexterous Grasping via Real2Sim2Real Tactile Policy Learning [[Paper Link]](https://arxiv.org/abs/2606.11767) [[Project Link]](https://dex-blind-grasp.github.io/) [2026]
 - [x] FACTR 2: Learning External Force Sensing for Commodity Robot Arms Improves Policy Learning [[Paper Link]](https://arxiv.org/abs/2606.12406) [[Project Link]](https://jasonjzliu.com/factr2) [2026]
 - [ ] Sparse2Act: Learning Action-Aligned Sparse 3D Representations for Cross-Domain Robot Manipulation [[Paper Link]](https://arxiv.org/abs/2606.12759) [2026]
@@ -129,9 +132,14 @@ Cheng Yin, Chenyu Yang, Zhiwen Hu, Yunxiang Mi, Weichen Lin, Yimeng Wang.
 - [x] CogACT: A Foundational Vision-Language-Action Model for Synergizing Cognition and Action in Robotic Manipulation [[Paper Link]](https://arxiv.org/abs/2411.19650) [[Project Link]](https://cogact.github.io) [2024]
 - [x] ClevrSkills: Compositional Language and Visual Reasoning in Robotics [[Paper Link]](https://arxiv.org/abs/2411.09052) [[Project Link]](https://github.com/Qualcomm-AI-research/ClevrSkills) [2024]
 - [x] RoboMatrix: A Skill-centric Hierarchical Framework for Scalable Robot Task Planning and Execution in Open-World [[Paper Link]](https://arxiv.org/abs/2412.00171) [[Project Link]](https://github.com/WayneMao/RoboMatrix) [2024]
+- [x] RepWAM: World Action Modeling with Representation Visual-Action Tokenizers [[Paper Link]](https://arxiv.org/abs/2606.13674) [[Project Link]](https://wdrink.github.io/RepWAM/) [2026]
 - [ ] WEAVER, Better, Faster, Longer: An Effective World Model for Robotic Manipulation [[Paper Link]](https://arxiv.org/abs/2606.13672) [[Project Link]](https://arnavkj1995.github.io/WEAVER/) [2026]
 - [ ] NavWAM: A Navigation World Action Model for Goal-Conditioned Visual Navigation [[Paper Link]](https://arxiv.org/abs/2606.13494) [[Project Link]](https://dachii-azm.github.io/navwam/) [2026]
 - [ ] MaskWAM: Unifying Mask Prompting and Prediction for World-Action Models [[Paper Link]](https://arxiv.org/abs/2606.13515) [2026]
+- [ ] HiMem-WAM: Hierarchical Memory-Gated World Action Models for Robotic Manipulation [[Paper Link]](https://arxiv.org/abs/2606.10363) [2026]
+- [ ] Making Foresight Actionable: Repurposing Representation Alignment in World Action Models [[Paper Link]](https://arxiv.org/abs/2606.12217) [[Project Link]](https://xpeng-robotics.github.io/agra) [2026]
+- [ ] Dreaming when Necessary: Advancing World Action Models with Adaptive Multi-Modal Reasoning [[Paper Link]](https://arxiv.org/abs/2606.07089) [[Project Link]](https://nova-plan.github.io) [2026]
+- [ ] PLUME: Probabilistic Latent Unified World Modeling and Parameter Estimation for Multi-Finger Manipulation [[Paper Link]](https://arxiv.org/abs/2606.11396) [[Project Link]](https://plume-world-model.github.io) [2026]
 - [ ] EA-WM: Event-Aware World Models with Task-Specification Grounding for Long-Horizon Manipulation [[Paper Link]](https://arxiv.org/abs/2606.13053) [2026]
 - [x] Scale Buys Interpolation, Structure Buys a Horizon: Certified Predictability for Equivariant World Models [[Paper Link]](https://arxiv.org/abs/2606.13092) [[Project Link]](https://github.com/TimothyWang418/se3-ejepa) [2026]
 - [ ] DIRECT: When and Where Should You Allocate Test-Time Compute in Embodied Planners? [[Paper Link]](https://arxiv.org/abs/2606.12402) [2026]
@@ -256,6 +264,7 @@ Cheng Yin, Chenyu Yang, Zhiwen Hu, Yunxiang Mi, Weichen Lin, Yimeng Wang.
 - [ ] Y-BotFrame: An Extensible Embodied Agent Framework for Quadruped Robot Assistants [[Paper Link]](https://arxiv.org/abs/2606.13049) [2026]
 - [ ] UniIntervene: Agentic Intervention for Efficient Real-World Reinforcement Learning [[Paper Link]](https://arxiv.org/abs/2606.12372) [[Project Link]](https://denghaoyuan123.github.io/UniIntervene-project/) [2026]
 - [ ] Ambient Diffusion Policy: Imitation Learning from Suboptimal Data in Robotics [[Paper Link]](https://arxiv.org/abs/2606.12365) [[Project Link]](https://ambient-diffusion-policy.github.io/) [2026]
+- [ ] Critic Architecture Matters: Dual vs. Unified Critics for Humanoid Loco-Manipulation [[Paper Link]](https://arxiv.org/abs/2606.11891) [2026]
 - [x] Aligning Diffusion Behaviors with Q-functions for Efficient Continuous Control [[Paper Link]](https://arxiv.org/abs/2407.09024) [[Project Link]](https://github.com/thu-ml/Efficient-Diffusion-Alignment) [2024]
 - [ ] MENTOR: Mixture-of-Experts Network with Task-Oriented Perturbation for Visual Reinforcement Learning [[Paper Link]](https://arxiv.org/abs/2410.14972) [[Project Link]](https://suninghuang19.github.io/mentor_page/) [2024]
 - [x] Precise and Dexterous Robotic Manipulation via Human-in-the-Loop Reinforcement Learning [[Paper Link]](https://arxiv.org/abs/2410.21845)  [[Project Link]](https://hil-serl.github.io/)  [2024]
@@ -282,6 +291,9 @@ Cheng Yin, Chenyu Yang, Zhiwen Hu, Yunxiang Mi, Weichen Lin, Yimeng Wang.
 
 ## Interaction and Humanoids
 
+- [ ] MotionWAM: Towards Foundation World Action Models for Real-Time Humanoid Loco-Manipulation [[Paper Link]](https://arxiv.org/abs/2606.09215) [2026]
+- [ ] GuideWalk: Learning Unified Autonomous Navigation and Locomotion for Humanoid Robots across Versatile Terrains [[Paper Link]](https://arxiv.org/abs/2606.10449) [2026]
+- [x] RoboNaldo: Accurate, Stable and Powerful Humanoid Soccer Shooting via Motion-Guided Curriculum Reinforcement Learning [[Paper Link]](https://arxiv.org/abs/2606.11092) [[Project Link]](https://opendrivelab.com/RoboNaldo) [2026]
 - [ ] GenHOI: Contact-Aware Humanoid-Object Interaction by Imitating Generated Videos without Task-Specific Training [[Paper Link]](https://arxiv.org/abs/2606.12995) [2026]
 - [ ] Stubborn: A Streamlined and Unified Reinforcement Learning Framework for Robust Motion Tracking and Fall Recovery for Humanoids [[Paper Link]](https://arxiv.org/abs/2606.12814) [[Project Link]](https://aislab-sustech.github.io/Stubborn/) [2026]
 - [ ] Proprioceptive-visual correspondence enables self-other distinction in humanoid robots [[Paper Link]](https://arxiv.org/abs/2606.13222) [[Project Link]](https://euron-zc.github.io/humanoid-self-model/) [2026]
@@ -448,12 +460,14 @@ As embodied AI systems are deployed in safety-critical environments (autonomous 
 - [ ] Adversarial Policies: Attacking Deep Reinforcement Learning [[Paper Link]](https://arxiv.org/abs/1905.10615) [2020]
 - [ ] Who Is the Strongest Enemy? Towards Optimal and Efficient Evasion Attacks in Deep RL [[Paper Link]](https://arxiv.org/abs/2106.05087) [2022]
 - [ ] Diffusion Policy Attacker: Crafting Adversarial Attacks for Diffusion-based Policies [[Paper Link]](https://arxiv.org/abs/2405.19424) [2024]
+- [ ] Test-time Adversarial Takeover: A Real-time Hijacking Interface against Robotic Diffusion Policies [[Paper Link]](https://arxiv.org/abs/2606.10371) [2026]
 - [ ] Embodied laser attack: leveraging scene priors to achieve agent-based robust non-contact attacks [[Paper Link]](https://arxiv.org/abs/2312.09554) [2024]
 - [ ] SafeVLA: Towards Safety Alignment of Vision-Language-Action Model via Constrained Learning [[Paper Link]](https://arxiv.org/abs/2412.03847) [2025]
 - [ ] AttackVLA: Benchmarking Adversarial and Backdoor Attacks on Vision-Language-Action Models [[Paper Link]](https://arxiv.org/abs/2511.12149) [2025]
 - [ ] Jailbreaking Embodied LLMs via Action-level Manipulation [[Paper Link]](https://arxiv.org/abs/2603.01414) [2026]
 - [ ] VLA-Forget: Vision-Language-Action Unlearning for Embodied Foundation Models [[Paper Link]](https://arxiv.org/abs/2604.03956) [2026]
 - [ ] Trajectory-Level Redirection Attacks on Vision-Language-Action Models [[Paper Link]](https://arxiv.org/abs/2606.12978) [[Project Link]](https://vla-redirection-attack.github.io/) [2026]
+- [ ] Act on What You See: Unlocking Safe Social Navigation in Vision-Language-Action Models [[Paper Link]](https://arxiv.org/abs/2606.10495) [2026]
 
 **Human-Agent Interaction** — perceived safety and psychological risks:
 
@@ -500,6 +514,7 @@ As embodied AI systems are deployed in safety-critical environments (autonomous 
 
 - [x] SIMPLE: Simulation-Based Policy Learning and Evaluation for Humanoid Loco-manipulation [[Paper Link]](https://arxiv.org/abs/2606.08278) [[Project Link]](https://github.com/physical-superintelligence-lab/SIMPLE) [2026]
 - [ ] An Embodied Simulation Platform, Benchmark, and Data-Efficient Augmentation Framework for Wet-Lab Robotics [[Paper Link]](https://arxiv.org/abs/2606.12936) [2026]
+- [ ] Embodied-BenchClaw: An Autonomous Multi-Agent System for Embodied Spatial Intelligence Benchmark Construction [[Paper Link]](https://arxiv.org/abs/2606.11909) [2026]
 - [x] ORBIT: A Unified Simulation Framework for Interactive Robot Learning Environments [[Paper Link]](https://arxiv.org/abs/2301.04195) [[Project Link]](https://github.com/isaac-sim/IsaacLab) [2023]
 - [ ] Gazebo [[Paper Link]](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=79f91c1c95271a075b91e9fdca43d6c31e4cbe17) [[Project Link]](https://gazebosim.org/home) [2004]
 - [ ] Pybullet, a python module for physics simulation for games, robotics and machine learning [[Project Link]](https://github.com/bulletphysics/bullet3) [2021]
