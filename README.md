@@ -606,6 +606,7 @@ As embodied AI systems are deployed in safety-critical environments (autonomous 
 
 ## Toolkits
 
+- [x] RoboSkin ROS 2 Tactile Starter Kit [[Project Link]](https://roboskin.ai/guides/ros2-tactile-sensing) [2026]
 - [x] PyRep: Bringing V-REP to Deep Robot Learning [[Paper Link]](https://arxiv.org/abs/1906.11176) [[Project Link]](https://github.com/stepjam/PyRep) [2024]
 - [x] Yet Another Robotics and Reinforcement learning framework for PyTorch [[Project Link]](https://github.com/stepjam/YARR) [2024]
 
