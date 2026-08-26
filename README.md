@@ -510,7 +510,7 @@ As embodied AI systems are deployed in safety-critical environments (autonomous 
 - [ ] Automated Discovery of Semantic Attacks in Multi-Robot Navigation [[Paper Link]](https://www.usenix.org/conference/usenixsecurity25/presentation/yeke) [2025]
 - [ ] SkillJect: Automating Stealthy Skill-Based Prompt Injection for Coding Agents [[Paper Link]](https://arxiv.org/abs/2602.14211) [2026]
 
-## Simulators
+
 
 - [x] SIMPLE: Simulation-Based Policy Learning and Evaluation for Humanoid Loco-manipulation [[Paper Link]](https://arxiv.org/abs/2606.08278) [[Project Link]](https://github.com/physical-superintelligence-lab/SIMPLE) [2026]
 - [ ] An Embodied Simulation Platform, Benchmark, and Data-Efficient Augmentation Framework for Wet-Lab Robotics [[Paper Link]](https://arxiv.org/abs/2606.12936) [2026]
