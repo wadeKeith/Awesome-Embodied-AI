@@ -133,7 +133,7 @@ Cheng Yin, Chenyu Yang, Zhiwen Hu, Yunxiang Mi, Weichen Lin, Yimeng Wang.
 - [x] ClevrSkills: Compositional Language and Visual Reasoning in Robotics [[Paper Link]](https://arxiv.org/abs/2411.09052) [[Project Link]](https://github.com/Qualcomm-AI-research/ClevrSkills) [2024]
 - [x] RoboMatrix: A Skill-centric Hierarchical Framework for Scalable Robot Task Planning and Execution in Open-World [[Paper Link]](https://arxiv.org/abs/2412.00171) [[Project Link]](https://github.com/WayneMao/RoboMatrix) [2024]
 - [x] RepWAM: World Action Modeling with Representation Visual-Action Tokenizers [[Paper Link]](https://arxiv.org/abs/2606.13674) [[Project Link]](https://wdrink.github.io/RepWAM/) [2026]
-- [x] LeWAM: Latent evolving World Action Model [[Paper Link]](https://arxiv.org/abs/2609.27455) [[Project Link]](https://github.com/XuejiFang/LeWAM) [2026]
+- [x] LeWAM: Latent Evolving World Action Models [[Paper Link]](https://arxiv.org/abs/2609.27455) [[Project Link]](https://github.com/XuejiFang/LeWAM) [2026]
 - [ ] WEAVER, Better, Faster, Longer: An Effective World Model for Robotic Manipulation [[Paper Link]](https://arxiv.org/abs/2606.13672) [[Project Link]](https://arnavkj1995.github.io/WEAVER/) [2026]
 - [ ] NavWAM: A Navigation World Action Model for Goal-Conditioned Visual Navigation [[Paper Link]](https://arxiv.org/abs/2606.13494) [[Project Link]](https://dachii-azm.github.io/navwam/) [2026]
 - [ ] MaskWAM: Unifying Mask Prompting and Prediction for World-Action Models [[Paper Link]](https://arxiv.org/abs/2606.13515) [2026]
