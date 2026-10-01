@@ -606,6 +606,7 @@ As embodied AI systems are deployed in safety-critical environments (autonomous 
 - [x] BC-Z: Zero-Shot Task Generalization with Robotic Imitation Learning [[Paper Link]](https://arxiv.org/abs/2202.02005) [[Project Link]](https://sites.google.com/view/bc-z/home?pli=1) [2022]
 - [x] VIMA: General Robot Manipulation with Multimodal Prompts [[Paper Link]](https://arxiv.org/abs/2210.03094) [[Project Link]](https://vimalabs.github.io) [2023]
 - [x] FastUMI: A Scalable and Hardware-Independent Universal Manipulation Interface with Dataset [[Paper Link]](https://arxiv.org/abs/2409.19499) [[Project Link]](https://fastumi.com/) [2024]
+- [x] EmbodiedMemory-Bench: Benchmarking Embodied Memory for Long-Horizon Embodied Tasks [[Paper Link]](https://arxiv.org/abs/2609.28236) [[Project Link]](https://zju-omniai.github.io/Embodied-Omni/EmbodiedMemoryBench/) [2026]
 
 ## Toolkits
 
