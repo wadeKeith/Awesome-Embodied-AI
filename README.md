@@ -132,6 +132,7 @@ Cheng Yin, Chenyu Yang, Zhiwen Hu, Yunxiang Mi, Weichen Lin, Yimeng Wang.
 - [x] CogACT: A Foundational Vision-Language-Action Model for Synergizing Cognition and Action in Robotic Manipulation [[Paper Link]](https://arxiv.org/abs/2411.19650) [[Project Link]](https://cogact.github.io) [2024]
 - [x] ClevrSkills: Compositional Language and Visual Reasoning in Robotics [[Paper Link]](https://arxiv.org/abs/2411.09052) [[Project Link]](https://github.com/Qualcomm-AI-research/ClevrSkills) [2024]
 - [x] RoboMatrix: A Skill-centric Hierarchical Framework for Scalable Robot Task Planning and Execution in Open-World [[Paper Link]](https://arxiv.org/abs/2412.00171) [[Project Link]](https://github.com/WayneMao/RoboMatrix) [2024]
+- [x] Agent Priors-guided Policy Learning [[Paper Link]](https://arxiv.org/abs/2609.35690) [[Project Link]](https://github.com/Agentics-robotics/Agent-Priors-guided-Policy-Learning) [2026]
 - [x] RepWAM: World Action Modeling with Representation Visual-Action Tokenizers [[Paper Link]](https://arxiv.org/abs/2606.13674) [[Project Link]](https://wdrink.github.io/RepWAM/) [2026]
 - [x] LeWAM: Latent Evolving World Action Models [[Paper Link]](https://arxiv.org/abs/2609.27455) [[Project Link]](https://github.com/XuejiFang/LeWAM) [2026]
 - [ ] WEAVER, Better, Faster, Longer: An Effective World Model for Robotic Manipulation [[Paper Link]](https://arxiv.org/abs/2606.13672) [[Project Link]](https://arnavkj1995.github.io/WEAVER/) [2026]
