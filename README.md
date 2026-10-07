@@ -611,6 +611,7 @@ As embodied AI systems are deployed in safety-critical environments (autonomous 
 
 ## Toolkits
 
+- [ ] Physical AI open-source stack map: 49 verified open-source projects across six layers, from simulation to governance [[Project Link]](https://hyperlake.cloud/physical-ai/open-source-stack-map) [2026]
 - [x] mlx-smolvla [[Project Link]](https://github.com/daniiarabdiev/mlx-smolvla) [2026]
 - [x] RoboSkin ROS 2 Tactile Starter Kit [[Project Link]](https://roboskin.ai/guides/ros2-tactile-sensing) [2026]
 - [x] Provael: Red-team Open Vision-Language-Action Policies in Simulation [[Project Link]](https://github.com/provael/provael) [2026]
