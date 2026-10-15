@@ -31,6 +31,7 @@ Cheng Yin, Chenyu Yang, Zhiwen Hu, Yunxiang Mi, Weichen Lin, Yimeng Wang.
 
 ## Recent updates
 
+- `2026-10-15`: added DeepThinkVLA and SimpleMemVLA to VLA Models, covering explicit reasoning and native-video memory.
 - `2026-06-14`: added WAM representation/alignment, tactile foresight, humanoid loco-manipulation/navigation, VLA social safety, and embodied benchmark automation papers.
 - `2026-06-13`: added recent WAM/VLA memory, real-time execution, force-aware manipulation, humanoid recovery, robot-learning safety, and in-context execution papers.
 - `2026-06-12`: refreshed VLA/world-model manipulation, tactile VLA, embodied planners, humanoid self-modeling, embodied safety, simulators, and datasets.
@@ -191,6 +192,8 @@ Cheng Yin, Chenyu Yang, Zhiwen Hu, Yunxiang Mi, Weichen Lin, Yimeng Wang.
 
 ## VLA Models
 
+- [x] SimpleMemVLA: A Simple but Effective Native-Video Memory for Vision-Language-Action Models [[Paper Link]](https://arxiv.org/abs/2609.05533) [[Project Link]](https://github.com/OpenBMB/SimpleMemVLA) [2026]
+- [x] DeepThinkVLA: Enhancing Reasoning Capability of Vision-Language-Action Models [[Paper Link]](https://arxiv.org/abs/2511.15669) [[Project Link]](https://github.com/OpenBMB/DeepThinkVLA) [2025]
 - [ ] Qwen-VLA: Unifying Vision-Language-Action Modeling across Tasks, Environments, and Robot Embodiments [[Paper Link]](https://arxiv.org/abs/2605.30280) [[Project Link]](https://github.com/QwenLM/Qwen-VLA) [2026]
 - [ ] Improving Robotic Generalist Policies via Flow Reversal Steering [[Paper Link]](https://arxiv.org/abs/2606.13675) [2026]
 - [ ] GIVE: Grounding Human Gestures in Vision-Language-Action Models [[Paper Link]](https://arxiv.org/abs/2606.13435) [[Project Link]](https://luis-cloud-sg.github.io/GIVE-project/) [2026]
