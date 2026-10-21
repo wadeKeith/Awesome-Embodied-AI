@@ -264,6 +264,7 @@ Cheng Yin, Chenyu Yang, Zhiwen Hu, Yunxiang Mi, Weichen Lin, Yimeng Wang.
 
 ## Embodied AI and RL
 
+- [ ] Effective Parameters, Real Behavior: Renormalization for Robotics -- From Infinite Electron Mass to Sim-to-Real Gap [[Paper Link]](https://arxiv.org/abs/2607.24079) [2026]
 - [ ] Mana: Dexterous Manipulation of Articulated Tools [[Paper Link]](https://arxiv.org/abs/2606.13677) [[Project Link]](https://zhaohengyin.github.io/mana) [2026]
 - [ ] See Selectively, Act Adaptively: Dual-Level Structural Decomposition for Bimanual Robot Manipulation [[Paper Link]](https://arxiv.org/abs/2606.13279) [2026]
 - [ ] Y-BotFrame: An Extensible Embodied Agent Framework for Quadruped Robot Assistants [[Paper Link]](https://arxiv.org/abs/2606.13049) [2026]
