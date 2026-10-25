@@ -192,6 +192,13 @@ Cheng Yin, Chenyu Yang, Zhiwen Hu, Yunxiang Mi, Weichen Lin, Yimeng Wang.
 
 ## VLA Models
 
+- [ ] π\*0.6: a VLA That Learns From Experience [[Blog Link]](https://arxiv.org/abs/2511.14759) [[Project Link]](https://www.physicalintelligence.company/blog/pistar06) [2025]
+- [ ] Gemini Robotics 1.5: Pushing the Frontier of Generalist Robots with Advanced Embodied Reasoning, Thinking, and Motion Transfer [[Paper Link]](https://arxiv.org/abs/2510.03342) [2025]
+- [ ] Igniting VLMs toward the Embodied Space [[Paper Link]](https://arxiv.org/abs/2509.11766) [[Project Link]](https://github.com/X-Square-Robot/wall-x) [2025]
+- [ ] MolmoAct: Action Reasoning Models that can Reason in Space [[Paper Link]](https://arxiv.org/abs/2508.07917) [[Project Link]](https://github.com/allenai/molmoact) [2025]
+- [ ] GR-3 Technical Report [[Paper Link]](https://arxiv.org/abs/2507.15493) [[Project Link]](https://seed.bytedance.com/GR3) [2025]
+- [ ] SmolVLA: A Vision-Language-Action Model for Affordable and Efficient Robotics [[Paper Link]](https://arxiv.org/abs/2506.01844) [[Project Link]](https://github.com/huggingface/lerobot) [2025]
+- [ ] π0.5: a VLA with Open-World Generalization [[Paper Link]](https://arxiv.org/abs/2504.16054) [[Project Link]](https://www.physicalintelligence.company/blog/pi05) [2025]
 - [x] SimpleMemVLA: A Simple but Effective Native-Video Memory for Vision-Language-Action Models [[Paper Link]](https://arxiv.org/abs/2609.05533) [[Project Link]](https://github.com/OpenBMB/SimpleMemVLA) [2026]
 - [x] DeepThinkVLA: Enhancing Reasoning Capability of Vision-Language-Action Models [[Paper Link]](https://arxiv.org/abs/2511.15669) [[Project Link]](https://github.com/OpenBMB/DeepThinkVLA) [2025]
 - [ ] Qwen-VLA: Unifying Vision-Language-Action Modeling across Tasks, Environments, and Robot Embodiments [[Paper Link]](https://arxiv.org/abs/2605.30280) [[Project Link]](https://github.com/QwenLM/Qwen-VLA) [2026]
