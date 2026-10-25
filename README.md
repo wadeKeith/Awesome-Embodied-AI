@@ -194,7 +194,7 @@ Cheng Yin, Chenyu Yang, Zhiwen Hu, Yunxiang Mi, Weichen Lin, Yimeng Wang.
 
 - [ ] π\*0.6: a VLA That Learns From Experience [[Blog Link]](https://arxiv.org/abs/2511.14759) [[Project Link]](https://www.physicalintelligence.company/blog/pistar06) [2025]
 - [ ] Gemini Robotics 1.5: Pushing the Frontier of Generalist Robots with Advanced Embodied Reasoning, Thinking, and Motion Transfer [[Paper Link]](https://arxiv.org/abs/2510.03342) [2025]
-- [ ] Igniting VLMs toward the Embodied Space [[Paper Link]](https://arxiv.org/abs/2509.11766) [2025]
+- [ ] Igniting VLMs toward the Embodied Space [[Paper Link]](https://arxiv.org/abs/2509.11766) [[Project Link]](https://github.com/X-Square-Robot/wall-x) [2025]
 - [ ] MolmoAct: Action Reasoning Models that can Reason in Space [[Paper Link]](https://arxiv.org/abs/2508.07917) [[Project Link]](https://github.com/allenai/molmoact) [2025]
 - [ ] GR-3 Technical Report [[Paper Link]](https://arxiv.org/abs/2507.15493) [[Project Link]](https://seed.bytedance.com/GR3) [2025]
 - [ ] SmolVLA: A Vision-Language-Action Model for Affordable and Efficient Robotics [[Paper Link]](https://arxiv.org/abs/2506.01844) [[Project Link]](https://github.com/huggingface/lerobot) [2025]
