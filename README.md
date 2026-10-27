@@ -121,6 +121,7 @@ Cheng Yin, Chenyu Yang, Zhiwen Hu, Yunxiang Mi, Weichen Lin, Yimeng Wang.
 
 ## Brain Models
 
+- [x] Spotter: Let the Embodied Model Lead, and the VLM Reflect for It [[Paper Link]](https://arxiv.org/abs/2609.36808) [[Project Link]](https://github.com/zqc3117/Spotter) [2026]
 - [x] RACER: Rich Language-Guided Failure Recovery Policies for Imitation Learning [[Paper Link]](https://arxiv.org/abs/2409.14674) [[Project Link]](https://github.com/sled-group/RACER) [2024]
 - [x] Errors are Useful Prompts: Instruction Guided Task Programming with Verifier-Assisted Iterative Prompting [[Paper Link]](https://arxiv.org/abs/2303.14100) [[Project Link]](https://github.com/ac-rad/xdl-generation) [2023]
 - [x] Generalized Planning in PDDL Domains with Pretrained Large Language Models [[Paper Link]](https://arxiv.org/pdf/2305.11014) [[Project Link]](https://github.com/tomsilver/llm-genplan/) [2023]
