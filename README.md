@@ -633,6 +633,7 @@ As embodied AI systems are deployed in safety-critical environments (autonomous 
 - [x] PyRep: Bringing V-REP to Deep Robot Learning [[Paper Link]](https://arxiv.org/abs/1906.11176) [[Project Link]](https://github.com/stepjam/PyRep) [2024]
 - [x] Yet Another Robotics and Reinforcement learning framework for PyTorch [[Project Link]](https://github.com/stepjam/YARR) [2024]
 - [x] Common Behavior Data [[Project Link]](https://github.com/Koichi3333/common-behavior-data) [2026]
+- [x] Handoff: Offline Quality Checks and Sync Repair for Robot Training Data (LeRobot, MCAP/ROS 2, video) [[Project Link]](https://github.com/ebeirne/handoff) [2026]
 
 ## Citation
 
