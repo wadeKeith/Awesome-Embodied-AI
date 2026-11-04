@@ -633,6 +633,7 @@ As embodied AI systems are deployed in safety-critical environments (autonomous 
 - [x] PyRep: Bringing V-REP to Deep Robot Learning [[Paper Link]](https://arxiv.org/abs/1906.11176) [[Project Link]](https://github.com/stepjam/PyRep) [2024]
 - [x] Yet Another Robotics and Reinforcement learning framework for PyTorch [[Project Link]](https://github.com/stepjam/YARR) [2024]
 - [x] Common Behavior Data [[Project Link]](https://github.com/Koichi3333/common-behavior-data) [2026]
+- [x] Cadence: an architecture for a continuous and efficient stream of intelligence [[Paper Link]](https://philpapers.org/rec/MUECAP-2) [[Project Link]](https://github.com/muellerberndt/cadence) [2026]
 
 ## Citation
 
