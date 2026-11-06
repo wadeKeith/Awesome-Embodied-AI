@@ -625,6 +625,7 @@ As embodied AI systems are deployed in safety-critical environments (autonomous 
 
 ## Toolkits
 
+- [x] Cerulion: Rust Robot Runtime with Record and Re-execute for CI [[Project Link]](https://github.com/cerulion-inc/cerulion) [2026]
 - [x] Robot Control Stack: A Lean Ecosystem for Robot Learning at Scale [[Paper Link]](https://arxiv.org/abs/2509.14932) [[Project Link]](https://github.com/RobotControlStack/robot-control-stack) [2026]
 - [ ] Physical AI open-source stack map: 49 verified open-source projects across six layers, from simulation to governance [[Project Link]](https://hyperlake.cloud/physical-ai/open-source-stack-map) [2026]
 - [x] mlx-smolvla [[Project Link]](https://github.com/daniiarabdiev/mlx-smolvla) [2026]
