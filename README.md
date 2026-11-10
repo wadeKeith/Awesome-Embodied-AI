@@ -526,6 +526,7 @@ As embodied AI systems are deployed in safety-critical environments (autonomous 
 
 ## Simulators
 
+- [x] RoboSimStudio: An Interactive Toolkit for Human and Agent Rapid Real2Sim of Robot Manipulation Tasks [[Paper Link]](https://arxiv.org/abs/2610.18835) [[Project Link]](https://github.com/robosimstudio/robosimstudio) [2026]
 - [x] RoboQuest: Generalist Physical Agents that Search, Inspect and Test [[Paper Link]](https://arxiv.org/abs/2610.10388) [[Project Link]](https://declare-lab.github.io/RoboQuest/) [2026]
 - [x] DuoBench: A Reproducible Benchmark for Bimanual Manipulation in Simulation and the Real World [[Paper Link]](https://arxiv.org/abs/2606.11901) [[Project Link]](https://github.com/RobotControlStack/duobench) [2026]
 - [x] OmniSim [[Project Link]](https://github.com/omnilink-tech/omnisim) [2026]
