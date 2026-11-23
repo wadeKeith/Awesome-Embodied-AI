@@ -115,7 +115,7 @@ Cheng Yin, Chenyu Yang, Zhiwen Hu, Yunxiang Mi, Weichen Lin, Yimeng Wang.
 - [ ] Blind Dexterous Grasping via Real2Sim2Real Tactile Policy Learning [[Paper Link]](https://arxiv.org/abs/2606.11767) [[Project Link]](https://dex-blind-grasp.github.io/) [2026]
 - [x] FACTR 2: Learning External Force Sensing for Commodity Robot Arms Improves Policy Learning [[Paper Link]](https://arxiv.org/abs/2606.12406) [[Project Link]](https://jasonjzliu.com/factr2) [2026]
 - [ ] Sparse2Act: Learning Action-Aligned Sparse 3D Representations for Cross-Domain Robot Manipulation [[Paper Link]](https://arxiv.org/abs/2606.12759) [2026]
-- [x] EquiDexFlow: Contact-Grounded SE(3)-Equivariant Dexterous Grasp Generative Flows [[Paper Link]](https://arxiv.org/abs/2606.12728) [[Project Link]](https://equidexflow.github.io) [2026]
+- [x] EquiDexFlow: Contact-Grounded SE(3)-Equivariant Dexterous Grasp Generative Flows [[Paper Link]](https://arxiv.org/abs/2606.12728) [[Project Link]](https://clintonenwerem.com/equidexflow/) [2026]
 - [x] Antipodal Robotic Grasping using Generative Residual Convolutional Neural Network [[Paper Link]](https://ieeexplore.ieee.org/abstract/document/9340777) [[Project Link]](https://github.com/skumra/robotic-grasping) [2020]
 - [x] Touch begins where vision ends: Generalizable policies for contact-rich manipulation [[Paper Link]](https://arxiv.org/abs/2506.13762) [[Project Link]](https://github.com/Exiam6/ViTaL) [2025]
 
