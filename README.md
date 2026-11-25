@@ -451,6 +451,7 @@ As embodied AI systems are deployed in safety-critical environments (autonomous 
 - [ ] BadRobot: Jailbreaking embodied LLMs in the physical world [[Paper Link]](https://arxiv.org/abs/2407.20242) [2024]
 - [ ] HASARD: A Benchmark for Vision-Based Safe Reinforcement Learning in Embodied Agents [[Paper Link]](https://arxiv.org/abs/2503.08241) [2025]
 - [ ] Robo-Troj: Backdoor Attacks Against Robotic Manipulation in the Physical World [[Paper Link]](https://arxiv.org/abs/2504.17070) [2025]
+- [x] LEASH: Stay Safe in Agentic Robotics [[Paper Link]](https://arxiv.org/abs/2611.14115) [[Project Link]](https://github.com/zhuqinfeng1999/LEASH) [2026]
 
 **Trajectory Planning** — adversarial scenarios for autonomous driving trajectory prediction:
 
