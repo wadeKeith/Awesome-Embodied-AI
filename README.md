@@ -630,6 +630,7 @@ As embodied AI systems are deployed in safety-critical environments (autonomous 
 
 ## Toolkits
 
+- [x] DDBR (robo_vlm_qc): Splice-Safe VLM Trajectory QC and NLE Studio for Embodied AI [[Project Link]](https://github.com/LVultimatefun/DDBR) [2026]
 - [x] OpenZilo: An Open Smart-Ring Platform for Human-Centric Sensing and Interaction with Robots [[Paper Link]](https://arxiv.org/abs/2611.03410) [[Project Link]](https://github.com/ziloai/OpenZilo) [2026]
 - [x] Cerulion: Rust Robot Runtime with Record and Re-execute for CI [[Project Link]](https://github.com/cerulion-inc/cerulion) [2026]
 - [x] Robot Control Stack: A Lean Ecosystem for Robot Learning at Scale [[Paper Link]](https://arxiv.org/abs/2509.14932) [[Project Link]](https://github.com/RobotControlStack/robot-control-stack) [2026]
