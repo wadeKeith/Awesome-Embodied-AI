@@ -630,6 +630,7 @@ As embodied AI systems are deployed in safety-critical environments (autonomous 
 
 ## Toolkits
 
+- [ ] Autelica Capture QA API: Per-Second Usable/Unusable QA for Multi-Camera Robot-Learning Capture [[Project Link]](https://app.autelica.com/check/docs/api) [2026]
 - [x] DDBR (robo_vlm_qc): Splice-Safe VLM Trajectory QC and NLE Studio for Embodied AI [[Project Link]](https://github.com/LVultimatefun/DDBR) [2026]
 - [x] OpenZilo: An Open Smart-Ring Platform for Human-Centric Sensing and Interaction with Robots [[Paper Link]](https://arxiv.org/abs/2611.03410) [[Project Link]](https://github.com/ziloai/OpenZilo) [2026]
 - [x] Cerulion: Rust Robot Runtime with Record and Re-execute for CI [[Project Link]](https://github.com/cerulion-inc/cerulion) [2026]
